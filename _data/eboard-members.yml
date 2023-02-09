@@ -11,11 +11,27 @@
       image_name:
       description: >
 
+- secretary:
+  name: Secretary
+  members:
+    - name: Aunika Zheng
+      year: 2023
+      image_name:
+      description: >
+
+- finance:
+  name: Treasurer
+  members:
+    - name: Xiyan
+      year: 2023
+      image_name:
+      description: >
+
 - events:
   name: Events Directors
   members:
     - name: Dale Yu
-      year:
+      year: 2023
       image_name:
       description: >
 
@@ -33,3 +49,26 @@
       year:
       image_name:
       description: >
+
+- publicity:
+  name: Publicity Director
+  members:
+    - name: Mingying Yeoh
+      year:
+      image_name:
+      description: >
+
+- logistics:
+  name: Competitor Logistics
+  members:
+    - name: Keegan
+      year:
+      image_name:
+      description: >
+
+    - name: Hreedi
+      year:
+      image_name:
+      description: >
+
+

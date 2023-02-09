@@ -6,6 +6,14 @@ The defacto site for coaches to see information on Columbia University and for C
 
 The site is constructed using [Jekyll](https://jekyllrb.com/), a static site generator. To get started, follow the instructions on [Jekyll's installation page](https://jekyllrb.com/docs/installation/). To build and serve the site locally, run `bundle exec jekyll serve` from the root of this repository.
 
+##### Requirements for Jekyll:
+
+- Ruby version **2.5.0** or higher
+- RubyGems
+- GCC and Make
+
+> Install all prereqs following the guide here [installation guide](https://jekyllrb.com/docs/installation/#requirements)
+
 Feel free to fork to make it your own, or contribute!
 
 ## Contributions:
