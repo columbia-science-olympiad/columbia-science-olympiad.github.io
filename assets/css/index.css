@@ -40,6 +40,10 @@
     color: var(white);
     white-space: pre-wrap;
   }
+  .logo-name:hover{
+    color: var(--highlight-color);
+    text-decoration: none;
+  }
 
   nav {
     display: flex;
