@@ -22,8 +22,8 @@ title: cuso
 email: columbiascienceolympiad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Columbia University Science Olympiad
-baseurl: /science_olympiad
-url: http://daleyu.github.io
+baseurl: /science_olympiad/
+url: http://daleyu.github.io/science_olympiad
 twitter_username: jekyllrb
 github_username:  jekyll
 # Build settings
