@@ -34,6 +34,13 @@
     text-decoration: none;
   }
 
+  .logo-name{
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(white);
+    white-space: pre-wrap;
+  }
+
   nav {
     display: flex;
     width: 100%;
@@ -175,7 +182,7 @@
   }
 
   main > article:first-child > .article-image-section {
-    background-image: url("/assets/images/city_pic.png");
+    background-image: url("/assets/images/low.png");
   }
 
   main > article:nth-child(2) > .article-image-section {
@@ -183,11 +190,11 @@
   }
 
   main > article:nth-child(3) > .article-image-section {
-    background-image: url("/assets/images/city_pic.png");
+    background-image: url("/assets/images/campus.png");
   }
 
   main > article:nth-child(4) > .article-image-section {
-    background-image: url("/assets/images/city_pic.png");
+    background-image: url("/assets/images/team.png");
   }
 
   main > article > .article-image-section {
