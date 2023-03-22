@@ -8,13 +8,13 @@ title: About
 <h1>{{type.name}}</h1>
 
 <ul>
-    {% for member in type.members %}
-    <li>
-        Name: {{ member.name }}
-        <ul>
-            <li>Year: {{ member.year }}</li>
-            <li>Description: {{ member.description }}</li>
-        </ul>
-    </li>
-    {% endfor %}
+  {% for member in type.members %}
+  <li>
+    Name: {{ member.name }}
+    <ul>
+      <li>Year: {{ member.year }}</li>
+      <li>Description: {{ member.description }}</li>
+    </ul>
+  </li>
+  {% endfor %}
 </ul>
