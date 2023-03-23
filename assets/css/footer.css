@@ -1,9 +1,9 @@
 .site-footer {
-    background-color: #26272b;
+    background-color: #828cb5;
     padding: 45px 0 20px;
     font-size: 15px;
     line-height: 24px;
-    color: #737373;
+    color: #060606;
 }
 .site-footer hr {
     border-top-color: #bbb;
@@ -20,7 +20,7 @@
     letter-spacing: 2px;
 }
 .site-footer a {
-    color: #737373;
+    color: #100f0f;
 }
 .site-footer a:hover {
     color: #3366cc;
@@ -34,7 +34,7 @@
     display: block;
 }
 .footer-links a {
-    color: #737373;
+    color: #100d0d;
 }
 .footer-links a:active,
 .footer-links a:focus,
