@@ -2,8 +2,6 @@
 #check
 ---
 
-@import "main";
-
 .image {
     background-color: #490d40;
     background: url(https://sonorangirl.github.io/Earth-Quotes/img/google-earth-view-South-Iceland3.jpg)
@@ -12,18 +10,15 @@
     height: 570px;
     margin-top: -20px;
 }
-
 .image .heading {
     color: white;
     text-align: center;
     padding-top: 200px;
 }
-
 .image p {
     text-align: center;
     padding: 20px 60px;
 }
-
 .image p .btn {
     background-color: transparent;
     color: white;
@@ -31,12 +26,10 @@
     padding: 10px;
     font-size: 1.2em;
 }
-
 .image p .btn:hover {
     color: #c57ed3;
     border-color: #c57ed3;
 }
-
 .navbar {
     height: 80px;
     background-color: transparent;
@@ -45,75 +38,62 @@
     z-index: 100;
     transition: background-color 1s ease 0s;
 }
-
 .navbar-default .navbar-brand {
     margin-top: 10px;
     color: white;
 }
-
 .navbar-default .navbar-brand:hover {
     color: #c57ed3;
     border: 1px solid #c57ed3;
 }
-
 .navbar-default .navbar-nav > li > a {
     color: white;
     margin: 10px 5px 5px 5px;
 }
-
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:active,
 .navbar-default .navbar-nav > li > a:focus {
     color: #c57ed3;
     border: 1px solid #c57ed3;
 }
-
 .navbar-default .navbar-nav > li > a:visited {
     color: #c57ed3;
     text-decoration: none;
 }
-
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
     background-color: transparent;
     color: #c57ed3;
 }
-
 .navbar-default .navbar-toggle {
     border-color: #c57ed3;
 }
-
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background-color: #490d40;
 }
-
 .navbar-default .navbar-toggle .icon-bar {
     color: #c57ed3;
     background-color: #c57ed3;
 }
-
-.navbar-collapse.collapse.in ul {
+.navbar-default .navbar-collapse.collapse.in ul {
     background-color: #490d40;
 }
-
+/* Solid class attached on scroll past first section */
 .navbar.solid {
     background-color: #490d40;
     transition: background-color 1s ease 0s;
     box-shadow: 0 0 4px grey;
 }
-
 .navbar.solid .navbar-brand {
     color: #c57ed3;
     transition: color 1s ease 0s;
 }
-
 .navbar.solid .navbar-nav > li > a {
     color: #c57ed3;
     transition: color 1s ease 0s;
 }
-
 .about {
     background-color: #c57ed3;
     color: #490d40;
@@ -121,11 +101,9 @@
     text-align: center;
     margin-top: -20px;
 }
-
 .about h2 {
     padding-top: 220px;
 }
-
 .about p {
     padding: 20px 80px;
 }
