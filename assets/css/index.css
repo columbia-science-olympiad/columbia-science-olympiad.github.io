@@ -1,7 +1,6 @@
 .image {
     background-color: #490d40;
-    background: url(https://sonorangirl.github.io/Earth-Quotes/img/google-earth-view-South-Iceland3.jpg)
-        no-repeat center center;
+    background: url(../images/campus.png) no-repeat center center;
     background-size: cover;
     height: 570px;
     margin-top: -20px;
@@ -90,16 +89,8 @@
     color: #c57ed3;
     transition: color 1s ease 0s;
 }
-.about {
-    background-color: #c57ed3;
-    color: #490d40;
-    height: 600px;
-    text-align: center;
-    margin-top: -20px;
-}
-.about h2 {
-    padding-top: 220px;
-}
-.about p {
-    padding: 20px 80px;
+
+.info-item {
+    background-color: white;
+    height: 30vh;
 }
