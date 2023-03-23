@@ -1,47 +1,28 @@
-<nav data-toggled="false" data-transitionable="false">
-  <div id="nav-logo-section" class="nav-section">
-    <a href="/">
-      <img
-        src="/assets/images/logo.png"
-        class="logo-img"
-        alt="Columbia University Science Olympiad Logo"
-      />
-      <!-- <img src="/assets/images/city_logo.png" class="logo-img" alt="Columbia University Science Olympiad Logo"> -->
-    </a>
-    <div>
-      <a href="/">
-        <p class="logo-name">Columbia University</p>
-        <p class="logo-name">Science Olympiad</p>
-      </a>
-    </div>
-  </div>
-  <div id="nav-mobile-section">
-    <div id="nav-link-section" class="nav-section">
-      <a href="/">Home</a>
-      <a href="/registration/">Registration</a>
-      <a href="/tournament-info/">Tournament Info</a>
-      <a href="/results/">Results</a>
-    </div>
-    <div id="nav-social-section" class="nav-section">
-      <a href="#">
-        <i class="fa-solid fa-medal fa-2x"></i>
-      </a>
-      <a
-        href="https://www.instagram.com/columbiascienceolympiad"
-        target="_blank"
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle collapsed"
+        data-toggle="collapse"
+        data-target="#navbar"
+        aria-expanded="false"
+        aria-controls="navbar"
       >
-        <i class="fa-brands fa-instagram fa-2x"></i>
-      </a>
-      <a href="#">
-        <i class="fa-regular fa-envelope fa-2x"></i>
-      </a>
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Transparent to Solid Nav</a>
     </div>
-    <div id="nav-contact-section" class="nav-section">
-      <a href="/about">ABOUT US</a>
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Another Link</a></li>
+      </ul>
     </div>
+    <!--/.nav-collapse -->
   </div>
-  <button id="nav-toggle-button" type="button" onclick="handleNavToggle()">
-    <span>Menu</span>
-    <i class="fa-solid fa-bars"></i>
-  </button>
 </nav>
