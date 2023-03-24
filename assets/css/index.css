@@ -1,27 +1,45 @@
+.blur {
+    background-color: black;
+}
 .image {
-    background-color: #490d40;
     background: url(../images/campus.png) no-repeat center center;
     background-size: cover;
     height: 570px;
     margin-top: -20px;
+    filter: blur(4px) grayscale(0.1);
+    align-content: center;
+    /* add a opacity here for the background */
+    opacity: 0.5;
 }
-.image .heading {
+.image-text {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    padding: 10px;
+    color: white;
+}
+.heading {
+    padding-top: 200px;
     color: white;
     text-align: center;
-    padding-top: 200px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* add text shadow for more contrast */
+    position: relative;
+    z-index: 5;
 }
-.image p {
+.image-text p {
     text-align: center;
-    padding: 20px 60px;
+    padding: 10px 30px;
 }
-.image p .btn {
+.image-text p .btn {
     background-color: transparent;
     color: white;
     border: 1px solid white;
     padding: 10px;
-    font-size: 1.2em;
+    font-size: 0.6em;
 }
-.image p .btn:hover {
+.image-text p .btn:hover {
     color: #c57ed3;
     border-color: #c57ed3;
 }
@@ -32,65 +50,45 @@
     color: white;
     z-index: 100;
     transition: background-color 1s ease 0s;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-header {
+    float: left;
 }
 .navbar-default .navbar-brand {
     margin-top: 10px;
     color: white;
 }
 .navbar-default .navbar-brand:hover {
-    color: #c57ed3;
-    border: 1px solid #c57ed3;
+    color: #6786c0;
+    border: 1px solid #5585a5;
 }
 .navbar-default .navbar-nav > li > a {
     color: white;
     margin: 10px 5px 5px 5px;
 }
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:active,
-.navbar-default .navbar-nav > li > a:focus {
-    color: #c57ed3;
-    border: 1px solid #c57ed3;
-}
-.navbar-default .navbar-nav > li > a:visited {
-    color: #c57ed3;
-    text-decoration: none;
-}
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-    background-color: transparent;
-    color: #c57ed3;
-}
-.navbar-default .navbar-toggle {
-    border-color: #c57ed3;
-}
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-    background-color: #490d40;
-}
-.navbar-default .navbar-toggle .icon-bar {
-    color: #c57ed3;
-    background-color: #c57ed3;
-}
-.navbar-default .navbar-collapse.collapse.in ul {
-    background-color: #490d40;
-}
+
 /* Solid class attached on scroll past first section */
 .navbar.solid {
-    background-color: #490d40;
+    background-color: #a3bfe2;
     transition: background-color 1s ease 0s;
     box-shadow: 0 0 4px grey;
 }
 .navbar.solid .navbar-brand {
-    color: #c57ed3;
+    color: black;
     transition: color 1s ease 0s;
 }
 .navbar.solid .navbar-nav > li > a {
-    color: #c57ed3;
+    color: black;
     transition: color 1s ease 0s;
+}
+
+/* space <a> tags evenly */
+.links {
 }
 
 .info-item {
     background-color: white;
-    height: 30vh;
+    height: 80vh;
 }
