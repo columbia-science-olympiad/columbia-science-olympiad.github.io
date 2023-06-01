@@ -7,6 +7,60 @@
 
     --font-size-m: 20px;
     --font-size-l: 24px;
+    --font-size-xl: 28px;
+    --font-size-xxl: 32px;
+    --font-size-header: 40px;
+    --font-size-title: 64px;
+
+    --font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.title {
+    font-family: var(--font-family);
+    font-size: var(--font-size-title);
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0px;
+    font-style: normal;
+}
+
+.body {
+    font-family: var(--font-family);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-style: normal;
+}
+
+.outfit-normal-black-40px {
+    font-family: var(--font-family);
+    font-size: var(--font-size-header);
+    color: var(--black);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.outfit-medium-white-20px {
+    font-family: var(--font-family);
+    font-size: var(--font-size-m);
+    color: var(--white);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.outfit-bold-black-20px {
+    font-family: var(--font-family);
+    font-size: var(--font-size-m);
+    color: var(--black);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.subHeader {
+    font-family: var(--font-family);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
 }
 
 .blur {
