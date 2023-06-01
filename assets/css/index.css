@@ -16,14 +16,46 @@
 
     --font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
 .screen {
     padding-left: 30px;
     padding-right: 30px;
 }
 
-.city_pic {
+.city-pic {
+    overflow: hidden;
     border-radius: 30px;
+}
+
+.rounded-edges {
+    border-radius: inherit;
+}
+
+.section-header {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: capitalize;
+    text-align: left;
+
+    color: #000000;
+}
+
+.blue-button {
+    text-decoration: none;
+    color: white;
+}
+.section-sm-text {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: left;
+    text-transform: capitalize;
+
+    color: #000000;
 }
 
 .title {
