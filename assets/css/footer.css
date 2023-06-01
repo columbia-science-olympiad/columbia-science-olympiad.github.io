@@ -1,0 +1,42 @@
+.footer {
+    background-color: transparent;
+    display: flex;
+    height: auto;
+    justify-content: flex-start;
+    align-items: center;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.footer-brand {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #000000;
+}
+
+.end-gradient {
+    position: absolute;
+    width: 100%;
+    height: 19px;
+    top: 100%;
+
+    background: linear-gradient(
+        90deg,
+        #fc96bb 0%,
+        #a3d6fc 51.87%,
+        #a690fc 100%
+    );
+}
+
+.flex-row {
+    align-items: center;
+    display: flex;
+}

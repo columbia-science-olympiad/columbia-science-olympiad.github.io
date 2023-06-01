@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700&display=swap");
+
 :root {
     --black: rgba(0, 0, 0, 1);
     --trout: rgba(75, 79, 100, 1);
@@ -13,6 +15,15 @@
     --font-size-title: 64px;
 
     --font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.screen {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.city_pic {
+    border-radius: 30px;
 }
 
 .title {
