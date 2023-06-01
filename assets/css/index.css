@@ -16,14 +16,16 @@
 
     --font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.screen {
-    padding-left: 30px;
-    padding-right: 30px;
+
+.info-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .city-pic {
     overflow: hidden;
     border-radius: 30px;
+    height: 360px;
 }
 
 .rounded-edges {
