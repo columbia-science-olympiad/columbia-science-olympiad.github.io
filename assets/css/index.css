@@ -60,6 +60,16 @@
     height: 450px;
 }
 
+.results-button {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 570px;
+    height: 128px;
+    background: linear-gradient(180deg, #e3e0ff 0%, #fdfdff 100%);
+    border-radius: 20px;
+}
 .section-sm-text {
     font-family: "Outfit";
     font-style: normal;
