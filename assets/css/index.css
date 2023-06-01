@@ -203,3 +203,11 @@
     background-color: white;
     height: 80vh;
 }
+
+.background-colors {
+    background: linear-gradient(180deg, #e3e0ff 0%, #fdfdfe 100%);
+}
+
+.hero-center {
+    text-align: center;
+}
