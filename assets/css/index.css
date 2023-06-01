@@ -153,55 +153,9 @@
     color: #c57ed3;
     border-color: #c57ed3;
 }
-.navbar {
-    height: 80px;
-    background-color: transparent;
-    border: none;
-    color: white;
-    z-index: 100;
-    transition: background-color 1s ease 0s;
-}
-.navbar-default .navbar-brand {
-    margin-top: 10px;
-    color: white;
-}
-.navbar-default .navbar-brand:hover {
-    color: #6786c0;
-    border: 1px solid #5585a5;
-}
-.navbar-default .links {
-    color: white;
-    margin: 10px 5px 5px 5px;
-}
-/* Solid class attached on scroll past first section */
-.navbar.solid {
-    background-color: #a3bfe2;
-    transition: background-color 1s ease 0s;
-    box-shadow: 0 0 4px grey;
-}
-.navbar.solid .navbar-brand {
-    color: black;
-    transition: color 1s ease 0s;
-}
-.navbar.solid .navbar-nav > li > a {
-    color: black;
-    transition: color 1s ease 0s;
-}
 
-/* space <a> tags evenly */
-.links {
-    display: flex;
-    justify-content: space-between;
-    width: 200px;
-}
-.link {
-    text-decoration: none;
-    color: white;
-    padding: 40px;
-}
-.info-item {
-    background-color: white;
-    height: 80vh;
+.transparent-navbar {
+    background-color: transparent;
 }
 
 .background-colors {
