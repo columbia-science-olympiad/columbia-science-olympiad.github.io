@@ -24,12 +24,7 @@
 
 .city-pic {
     overflow: hidden;
-    border-radius: 30px;
     height: 360px;
-}
-
-.rounded-edges {
-    border-radius: inherit;
 }
 
 .section-header {
@@ -48,6 +43,23 @@
     text-decoration: none;
     color: white;
 }
+
+.white-button {
+    text-decoration: none;
+    color: black;
+}
+
+.results-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result-image-container {
+    width: 970px;
+    height: 450px;
+}
+
 .section-sm-text {
     font-family: "Outfit";
     font-style: normal;
