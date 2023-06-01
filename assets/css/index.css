@@ -1,3 +1,14 @@
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --trout: rgba(75, 79, 100, 1);
+    --half-baked: rgba(131, 188, 221, 1);
+    --white: rgba(255, 255, 255, 1);
+    --cornflower: rgba(147, 211, 225, 1);
+
+    --font-size-m: 20px;
+    --font-size-l: 24px;
+}
+
 .blur {
     background-color: black;
 }
