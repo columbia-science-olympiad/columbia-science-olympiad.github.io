@@ -187,3 +187,24 @@
 .hero-center {
     text-align: center;
 }
+
+.desktop {
+    overflow-x: auto;
+}
+
+.background-shape {
+    width: 2258.72px;
+    height: 1366.08px;
+    position: absolute;
+    z-index: -1;
+
+    background: linear-gradient(
+        245.29deg,
+        #6dc1dc 13.32%,
+        #a690fc 28.55%,
+        #fc96bb 55.55%,
+        #ffc397 84.12%
+    );
+    filter: blur(182px);
+    transform: rotate(143.45deg);
+}
