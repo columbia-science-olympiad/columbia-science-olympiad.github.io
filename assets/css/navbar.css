@@ -27,8 +27,3 @@
     color: white;
     transition: color 1s ease 0s;
 }
-
-.navbar.solid .navbar-nav > li > a {
-    color: var(--cornflower);
-    transition: color 1s ease 0s;
-}
