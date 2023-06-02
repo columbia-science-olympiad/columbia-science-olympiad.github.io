@@ -1,3 +1,9 @@
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-top: -20px;
+}
+
 .navbar {
     height: 80px;
     background-color: transparent;
@@ -7,14 +13,13 @@
     transition: background-color 1s ease 0s;
 }
 
-.navbar-default .navbar-brand {
-    margin-top: 10px;
-    color: white;
-}
-
-.navbar-default .navbar-brand:hover {
-    color: white;
-    border: 1px solid white;
+.navbar-brand {
+    text-decoration: none;
+    font-family: var(--font-family);
+    font-size: var(--font-size-m);
+    color: var(--white);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .navbar.solid {
