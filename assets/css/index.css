@@ -17,6 +17,10 @@
     --font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.no-overflow {
+    overflow-x: hidden;
+}
+
 .info-padding {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -189,7 +193,7 @@
 }
 
 .desktop {
-    overflow-x: auto;
+    overflow-x: hidden;
 }
 
 .background-shape {
