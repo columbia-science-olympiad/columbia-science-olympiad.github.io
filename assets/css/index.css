@@ -31,6 +31,11 @@
     border-radius: 30px;
 }
 
+.grey-button {
+    background: var(--trout);
+    border-radius: 30px;
+}
+
 .city-pic {
     overflow: hidden;
     height: 360px;
@@ -48,7 +53,7 @@
     color: #000000;
 }
 
-.blue-button {
+.blue-button-text {
     text-decoration: none;
     color: white;
 }
