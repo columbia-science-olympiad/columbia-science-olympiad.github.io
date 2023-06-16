@@ -26,6 +26,11 @@
     padding-bottom: 50px;
 }
 
+.blue-button {
+    background: #84bddd;
+    border-radius: 30px;
+}
+
 .city-pic {
     overflow: hidden;
     height: 360px;
