@@ -5,12 +5,17 @@
 }
 
 .navbar {
+    align-items: flex-start;
     height: 80px;
     background-color: transparent;
     border: none;
     color: white;
     z-index: 100;
     transition: background-color 1s ease 0s;
+}
+
+.navbar-header {
+    justify-content: left;
 }
 
 .navbar-brand {

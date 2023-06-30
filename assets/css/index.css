@@ -222,3 +222,8 @@
     filter: blur(182px);
     transform: rotate(143.45deg);
 }
+
+.white-space {
+    background-color: transparent;
+    height: 30px;
+}
