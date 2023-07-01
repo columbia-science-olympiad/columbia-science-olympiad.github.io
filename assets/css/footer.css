@@ -50,3 +50,10 @@ ul {
         #a690fc 100%
     );
 }
+
+@media screen and (max-width: 986px) {
+    /* remove footer on phones */
+    .footer {
+        display: none;
+    }
+}

@@ -79,11 +79,22 @@
     top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 570px;
-    height: 128px;
+    width: 50%;
+    height: 33%;
     background: linear-gradient(180deg, #e3e0ff 0%, #fdfdff 100%);
     border-radius: 20px;
 }
+
+@media screen and (max-width: 768px) {
+    .results-button {
+        position: absolute;
+        top: 25%;
+        width: auto;
+        height: 20%;
+        background: linear-gradient(180deg, #e3e0ff 0%, #fdfdff 100%);
+    }
+}
+
 .section-sm-text {
     font-family: "Outfit";
     font-style: normal;
@@ -111,6 +122,17 @@
     font-weight: 400;
     letter-spacing: 0px;
     font-style: normal;
+    color: #000000;
+    line-height: 180%;
+}
+.body-white {
+    font-family: var(--font-family);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-style: normal;
+    color: white;
+    line-height: 180%;
 }
 
 .outfit-normal-black-40px {
@@ -210,6 +232,7 @@
     width: 2258.72px;
     height: 1366.08px;
     position: absolute;
+    top: 700px;
     z-index: -1;
 
     background: linear-gradient(
