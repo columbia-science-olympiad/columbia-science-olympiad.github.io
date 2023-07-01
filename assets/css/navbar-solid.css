@@ -1,0 +1,24 @@
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-top: -20px;
+}
+
+.navbar {
+    align-items: flex-start;
+    height: 80px;
+    background-color: var(--cornflower);
+    border: none;
+    color: white;
+    z-index: 100;
+    box-shadow: 0 0 4px grey;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    font-family: var(--font-family);
+    font-size: var(--font-size-m);
+    color: var(--white);
+    font-weight: 500;
+    font-style: normal;
+}
