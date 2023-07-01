@@ -169,8 +169,18 @@
 .blur {
     background-color: black;
 }
-.image {
+.home-image {
     background: url(../images/campus.png) no-repeat center center;
+    background-size: cover;
+    height: 570px;
+    margin-top: -20px;
+    filter: blur(4px) grayscale(0.1);
+    align-content: center;
+    /* add a opacity here for the background */
+    opacity: 0.5;
+}
+.team-image {
+    background: url(../images/team.png) no-repeat center center;
     background-size: cover;
     height: 570px;
     margin-top: -20px;
@@ -229,8 +239,8 @@
 }
 
 .background-shape {
-    width: 2258.72px;
-    height: 1366.08px;
+    width: 1758.72px;
+    height: 866.08px;
     position: absolute;
     top: 700px;
     z-index: -1;
@@ -249,4 +259,13 @@
 .white-space {
     background-color: transparent;
     height: 30px;
+}
+.white-space-lg {
+    background-color: transparent;
+    height: 100px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }

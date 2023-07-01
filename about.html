@@ -3,18 +3,15 @@ title: About
 layout: info
 ---
 
-hi
-<!--
-<h1>{{type.name}}</h1>
-
+{% for role in site.data.eboard-members %}
+<h2>{{ role.name }}</h2>
 <ul>
-  {% for member in type.members %}
+  {% for member in role.members %}
   <li>
-    Name: {{ member.name }}
-    <ul>
-      <li>Year: {{ member.year }}</li>
-      <li>Description: {{ member.description }}</li>
-    </ul>
+    <h3>{{ member.name }}</h3>
+    <p>{{ member.year }}</p>
+    <p>{{ member.description }}</p>
   </li>
   {% endfor %}
-</ul> -->
+</ul>
+{% endfor %}

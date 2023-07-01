@@ -56,6 +56,10 @@
   </head>
 
   <body class="no-overflow">
-    {% include navbar-solid.html %} {{ content }} {% include footer.html %}
+    {% include navbar-solid.html %}
+    <div class="white-space-lg"></div>
+    <div class="container">{{ content }}</div>
+    <div class="white-space-lg"></div>
+    {% include footer.html %}
   </body>
 </html>
