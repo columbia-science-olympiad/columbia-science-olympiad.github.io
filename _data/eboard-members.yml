@@ -1,74 +1,104 @@
 - tds:
   name: 2022 Tournament Directors
   members:
-    - name: Ryan Anselm
-      year: 2023
-      image_name:
-      description: >
-        I am Ryan :P
-    - name: Eric Mao
-      year: 2023
-      image_name:
-      description: >
+      - name: Kaylee Fang
+        year: 2025
+        image_name:
+        description: >
+            Premed major vibes
+      - name: Ania Krzyżańska
+        year: 2025
+        image_name:
+        description: >
 
 - secretary:
   name: Secretary
   members:
-    - name: Aunika Zheng
-      year: 2023
-      image_name:
-      description: >
+      - name: Aunika Zheng
+        year: 2023
+        image_name:
+        description: >
+            I am in BME.
 
 - finance:
   name: Treasurer
   members:
-    - name: Xiyan
-      year: 2023
-      image_name:
-      description: >
+      - name: Erik Trebilcock
+        year: 2024
+        image_name:
+        description: >
+            IDK who this is
 
 - events:
   name: Events Directors
   members:
-    - name: Dale Yu
-      year: 2023
-      image_name:
-      description: >
+      - name: Dale Yu
+        year: 2023
+        image_name:
+        description: >
 
-    - name:
-      year:
-      image_name:
-      description: >
+      - name: Colin Davis
+        year:
+        image_name:
+        description: >
 
-    - name:
-      year:
-      image_name:
-      description: >
+      - name: Hreedi Dev
+        year:
+        image_name:
+        description: >
 
-    - name:
-      year:
-      image_name:
-      description: >
+      - name: Pablo Buitrago
+        year:
+        image_name:
+        description: >
 
 - publicity:
   name: Publicity Director
   members:
-    - name: Mingying Yeoh
-      year:
-      image_name:
-      description: >
+      - name: Mingying Yeoh
+        year: 2025
+        image_name:
+        description: >
+            Korean
 
 - logistics:
   name: Competitor Logistics
   members:
-    - name: Keegan
-      year:
-      image_name:
-      description: >
+      - name: Katherine Estrada
+        year:
+        image_name:
+        description: >
 
-    - name: Hreedi
-      year:
-      image_name:
-      description: >
+      - name: Sumaiyah Rahman
+        year:
+        image_name:
+        description: >
+- volunteer:
+  name: Volunteer Director
+      members:
+          - name: Hreedi
+            year:
+            image_name:
+            description: >
+
+- grad-stud:
+      name: Graduate Advisor
+      members:
+          - name: Christopher Hwu
+            year:
+            image_name:
+            description: >
+
+- seniors:
+  name: Senior Advisors/Past Presidents
+  members:
+    - name: Ryan Anselm
+            year:
+            image_name:
+            description: >
 
 
+    - name: Eric Mao
+            year:
+            image_name:
+            description: >
