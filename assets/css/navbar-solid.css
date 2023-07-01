@@ -5,13 +5,14 @@
 }
 
 .navbar {
-    align-items: flex-start;
-    height: 80px;
+    display: flex;
+    align-items: space-between;
     background-color: var(--cornflower);
+    height: 80px;
+    box-shadow: 0 0 4px grey;
     border: none;
     color: white;
     z-index: 100;
-    box-shadow: 0 0 4px grey;
 }
 
 .navbar-brand {
@@ -21,4 +22,16 @@
     color: var(--white);
     font-weight: 500;
     font-style: normal;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .right-align .navbar-nav {
+        float: none;
+    }
 }
