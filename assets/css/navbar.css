@@ -5,7 +5,8 @@
 }
 
 .navbar {
-    align-items: flex-start;
+    display: flex;
+    align-items: space-between;
     height: 80px;
     background-color: transparent;
     border: none;
@@ -32,4 +33,16 @@
 .navbar.solid .navbar-brand {
     color: white;
     transition: color 1s ease 0s;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .right-align .navbar-nav {
+        float: none;
+    }
 }
