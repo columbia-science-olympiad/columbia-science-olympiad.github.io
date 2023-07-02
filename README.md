@@ -57,4 +57,4 @@ See the [EditorConfig documentation](https://editorconfig.org/) for more informa
 
 #### Credits and Mentions:
 
-Credits to Dylan Brouwer for his inspiration.
+
