@@ -73,32 +73,32 @@
         year:
         image_name:
         description: >
+
 - volunteer:
   name: Volunteer Director
-      members:
-          - name: Hreedi
-            year:
-            image_name:
-            description: >
+  members:
+      - name: Hreedi
+        year:
+        image_name:
+        description: >
 
 - grad-stud:
-      name: Graduate Advisor
-      members:
-          - name: Christopher Hwu
-            year:
-            image_name:
-            description: >
+  name: Graduate Advisor
+  members:
+      - name: Christopher Hwu
+        year:
+        image_name:
+        description: >
 
 - seniors:
   name: Senior Advisors/Past Presidents
   members:
-    - name: Ryan Anselm
-            year:
-            image_name:
-            description: >
+      - name: Ryan Anselm
+        year:
+        image_name:
+        description: >
 
-
-    - name: Eric Mao
-            year:
-            image_name:
-            description: >
+      - name: Eric Mao
+        year: 2024
+        image_name:
+        description: >
