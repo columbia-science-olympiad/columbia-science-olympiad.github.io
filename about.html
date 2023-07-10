@@ -15,3 +15,49 @@ layout: info
   {% endfor %}
 </ul>
 {% endfor %}
+
+<p>
+  Science Olympiad at MIT is an undergraduate student group founded in Fall 2013
+  by Connor Duffy (2017) and Kenny Friedman (2017) with the mission of improving
+  the Science Olympiad experience of high school students in Massachusetts and
+  the greater northeast region. MIT Science Olympiad is entirely run by a team
+  of MIT undergraduate students. We work around the year both within MIT and in
+  the Massachusetts area to promote Science Olympiad opportunities for students.
+  The MIT Invitational would not be possible without the dedication and effort
+  of our members.
+</p>
+
+{% for team in site.data.pc-members %}
+<h2>{{ team.name }}</h2>
+<div class="tile is-ancestor team-card">
+  {% for member in team.members %}
+  <div class="tile is-parent is-6">
+    <div class="card is-child">
+      <div class="card-image">
+        <div class="overlay-container">
+          <figure class="image is-4by3">
+            <img
+              src="./assets/images/headshots/{{ member.image_name }}"
+              alt="{{ member.name }} headshot"
+            />
+          </figure>
+          <p class="is-size-6 is-size-7-touch">{{ member.description }}</p>
+        </div>
+      </div>
+      <div class="card-content">
+        <div class="title is-5">{{ member.name }}</div>
+        <div class="subtitle">{{ member.year }}</div>
+        <p class="is-size-6 is-size-7-mobile mobile-only-text">
+          {{ member.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
+
+<h2>Hall Of Fame (Past Presidents)</h2>
+<ul>
+  <li>2022: Ryan Anselm ❤️, and Eric Mao</li>
+</ul>
