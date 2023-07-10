@@ -4,6 +4,9 @@ The defacto site for coaches to see information on Columbia University and for C
 
 -   If you have questions about joining or want to help with the website then email columbiascienceolympiad@gmail.com
 
+-   You can check out the Figma and make design changes and the open an issue here and we will try to get to it!
+  - https://www.figma.com/file/fYbVjnSTSsC0CiDwBgBYeJ/cuso-website?type=design&node-id=8-80
+
 ## Documentation:
 
 The site is constructed using [Jekyll](https://jekyllrb.com/), a static site generator. To get started, follow the instructions on [Jekyll's installation page](https://jekyllrb.com/docs/installation/). To build and serve the site locally, run `bundle exec jekyll serve` from the root of this repository.
