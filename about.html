@@ -3,32 +3,21 @@ title: About
 layout: info
 ---
 
-{% for role in site.data.eboard-members %}
-<h2>{{ role.name }}</h2>
-<ul>
-  {% for member in role.members %}
-  <li>
-    <h3>{{ member.name }}</h3>
-    <p>{{ member.year }}</p>
-    <p>{{ member.description }}</p>
-  </li>
-  {% endfor %}
-</ul>
-{% endfor %}
-
 <p>
-  Science Olympiad at MIT is an undergraduate student group founded in Fall 2013
-  by Connor Duffy (2017) and Kenny Friedman (2017) with the mission of improving
-  the Science Olympiad experience of high school students in Massachusetts and
-  the greater northeast region. MIT Science Olympiad is entirely run by a team
-  of MIT undergraduate students. We work around the year both within MIT and in
-  the Massachusetts area to promote Science Olympiad opportunities for students.
-  The MIT Invitational would not be possible without the dedication and effort
-  of our members.
+  Science Olympiad at MIT is an undergraduate student group that first started
+  out as volunteers to local tournaments in Spring 2022. We were founded by Ryan
+  Anselm, Eric Mao, and Aunika Zheng (2024) for our first tournament of the 2023
+  season. We passionate about Science Olympiad and want to share our love for
+  the competition with the community. We are entirely run by students and are
+  dedicated to providing a fun and educational experience for all competitors.
+  While our biggest milestone each year is our invitational, we also push to
+  provide resources and volunteer in the surrounding community. If you are
+  interesting in joining contact us and check out our current team. In the end,
+  we want to have fun!
 </p>
 
-{% for team in site.data.pc-members %}
-<h2>{{ team.name }}</h2>
+{% for role in site.data.eboard-members %}
+<h2>{{ role.name }}</h2>
 <div class="tile is-ancestor team-card">
   {% for member in team.members %}
   <div class="tile is-parent is-6">
@@ -60,4 +49,5 @@ layout: info
 <h2>Hall Of Fame (Past Presidents)</h2>
 <ul>
   <li>2022: Ryan Anselm ❤️, and Eric Mao</li>
+  <li>Current: Ania, and Kaylee</li>
 </ul>

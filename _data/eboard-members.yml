@@ -1,9 +1,9 @@
 - tds:
-  name: 2022 Tournament Directors
+  name: 2024 Tournament Directors
   members:
       - name: Kaylee Fang
         year: 2025
-        image_name:
+        image_name: kaylee.png
         description: >
             Premed major vibes
       - name: Ania Krzyżańska
@@ -16,7 +16,7 @@
   members:
       - name: Aunika Zheng
         year: 2023
-        image_name:
+        image_name: aunika.png
         description: >
             I am in BME.
 
@@ -24,8 +24,8 @@
   name: Treasurer
   members:
       - name: Erik Trebilcock
-        year: 2024
-        image_name:
+        year: 2025
+        image_name: eric.png
         description: >
             IDK who this is
 
@@ -33,12 +33,12 @@
   name: Events Directors
   members:
       - name: Dale Yu
-        year: 2023
-        image_name:
+        year: 2025
+        image_name: dale.png
         description: >
 
       - name: Colin Davis
-        year:
+        year: 2025
         image_name:
         description: >
 
@@ -57,7 +57,7 @@
   members:
       - name: Mingying Yeoh
         year: 2025
-        image_name:
+        image_name: mingying.png
         description: >
             Korean
 
