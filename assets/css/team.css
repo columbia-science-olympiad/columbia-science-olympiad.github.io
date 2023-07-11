@@ -1,0 +1,54 @@
+.card {
+    /* border: 2px solid rgb(204, 204, 204); */
+    color: inherit;
+    background-color: inherit;
+    width: 100%;
+}
+
+.title {
+    color: inherit;
+}
+
+.subtitle {
+    color: inherit;
+}
+
+.tile {
+    margin-top: 1em;
+}
+
+.team-card {
+    flex-wrap: wrap;
+}
+
+.overlay-container p {
+    display: none;
+}
+
+@media only screen and (min-width: 430px) {
+    .mobile-only-text {
+        display: none;
+    }
+
+    .overlay-container p {
+        display: block;
+        visibility: hidden;
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0);
+        color: rgba(0, 0, 0, 0);
+        padding: 1.5em;
+        transition: visibility 0s linear 0.5s, color 0.3s ease,
+            background-color 0.3s ease;
+    }
+    .overlay-container:hover p {
+        color: inherit;
+        visibility: visible;
+        background-color: rgba(0, 0, 0, 0.7);
+        transition: color 0.3s ease;
+        transition: background-color 0.3s ease;
+    }
+}

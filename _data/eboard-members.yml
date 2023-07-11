@@ -5,11 +5,12 @@
         year: 2025
         image_name: kaylee.png
         description: >
-            Premed major vibes
+            My name is Kaylee and I am studying Computer Science and Premed. I love systems programming.
       - name: Ania Krzyżańska
         year: 2025
-        image_name:
+        image_name: ania.png
         description: >
+            I am a Junior studying CSE and I also love Systems Programming.
 
 - secretary:
   name: Secretary
@@ -18,7 +19,7 @@
         year: 2023
         image_name: aunika.png
         description: >
-            I am in BME.
+            I am in BME. And This will be filled.
 
 - finance:
   name: Treasurer
@@ -36,21 +37,25 @@
         year: 2025
         image_name: dale.png
         description: >
+            I am a Junior in Columbia College Studying Computer Science and East Asian Studies.
 
       - name: Colin Davis
         year: 2025
-        image_name:
+        image_name: colin.png
         description: >
+            I am Colin and I am in CC.
 
       - name: Hreedi Dev
-        year:
-        image_name:
+        year: 2024
+        image_name: hreedi.png
         description: >
+            I am Hreedi.
 
       - name: Pablo Buitrago
-        year:
-        image_name:
+        year: 2025
+        image_name: ryan.png
         description: >
+            I am Pablo and I am a Tech Event Director.
 
 - publicity:
   name: Publicity Director
@@ -62,43 +67,48 @@
             Korean
 
 - logistics:
-  name: Competitor Logistics
+  name: Logistics
   members:
       - name: Katherine Estrada
-        year:
-        image_name:
+        year: 2025
+        image_name: ryan.png
         description: >
+            Hi I am Katherine
 
       - name: Sumaiyah Rahman
-        year:
-        image_name:
+        year: 2026
+        image_name: ryan.png
         description: >
+            Hi I am Sumaiyah.
 
 - volunteer:
   name: Volunteer Director
   members:
-      - name: Hreedi
-        year:
-        image_name:
+      - name: Elaine Huang
+        year: 2024
+        image_name: elaine.png
         description: >
 
 - grad-stud:
   name: Graduate Advisor
   members:
       - name: Christopher Hwu
-        year:
-        image_name:
+        year: 2024
+        image_name: ryan.png
         description: >
+            Graduate advisor helping with all things Chem.
 
 - seniors:
   name: Senior Advisors/Past Presidents
   members:
       - name: Ryan Anselm
-        year:
-        image_name:
+        year: 2024
+        image_name: ryan.png
         description: >
+            I am Ryan.
 
       - name: Eric Mao
         year: 2024
-        image_name:
+        image_name: eric.png
         description: >
+            I am Eric Mao.

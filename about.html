@@ -19,7 +19,7 @@ layout: info
 {% for role in site.data.eboard-members %}
 <h2>{{ role.name }}</h2>
 <div class="tile is-ancestor team-card">
-  {% for member in team.members %}
+  {% for member in role.members %}
   <div class="tile is-parent is-6">
     <div class="card is-child">
       <div class="card-image">
@@ -30,7 +30,7 @@ layout: info
               alt="{{ member.name }} headshot"
             />
           </figure>
-          <p class="is-size-6 is-size-7-touch">{{ member.description }}</p>
+          <p class="body is-size-6 is-size-7-touch">{{ member.description }}</p>
         </div>
       </div>
       <div class="card-content">
