@@ -52,8 +52,11 @@ ul {
 }
 
 @media screen and (max-width: 986px) {
-    /* remove footer on phones */
-    .footer {
-        display: none;
+    /* make body and footer-title smaller */
+    .footer-title {
+        font-size: 16px;
+    }
+    .body {
+        font-size: 14px;
     }
 }

@@ -35,3 +35,19 @@
         float: none;
     }
 }
+@media screen and (max-width: 768px) {
+    .navbar-brand {
+        text-decoration: none;
+        font-family: var(--font-family);
+        font-size: 16px;
+        color: var(--white);
+        font-weight: 500;
+        font-style: normal;
+        margin-left: -10px;
+    }
+    .logo {
+        width: 40px;
+        height: 40px;
+        margin-top: -10px;
+    }
+}
