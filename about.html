@@ -17,7 +17,7 @@ layout: info
   interesting in getting involved, join our member mailing list to stay updated.
 </p>
 
-<h2>We are currently updating, stay tuned!</h2>
+<!-- <h2>We are currently updating, stay tuned!</h2>
 {% for role in site.data.eboard-members %}
 <h2>{{ role.name }}</h2>
 <div class="tile is-ancestor team-card">
@@ -41,6 +41,30 @@ layout: info
         <p class="is-size-6 is-size-7-mobile mobile-only-text">
           {{ member.description }}
         </p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endfor %} -->
+
+{% for role in site.data.eboard-members %}
+<div class="container">
+  {% for member in role.members %}
+  <div class="at-section">
+    <div class="at-section__title">The Team</div>
+  </div>
+  <div class="at-grid" data-column="3">
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar">
+          <img src="user.avatar" alt="User Avatar" />
+        </div>
+        <div class="at-user__name">member.name</div>
+        <div class="at-user__title">role.name</div>
+        <div class="at-user__desc">
+          <p>member.description</p>
+        </div>
       </div>
     </div>
   </div>
