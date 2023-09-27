@@ -16,37 +16,31 @@ layout: info
   and volunteer in the surrounding community. If you are a Columbia student
   interesting in getting involved, join our member mailing list to stay updated.
 </p>
-
-<h2>We are currently updating, stay tuned!</h2>
-<!-- {% for role in site.data.eboard-members %}
-<h2>{{ role.name }}</h2>
-<div class="tile is-ancestor team-card">
-  {% for member in role.members %}
-  <div class="tile is-parent is-6">
-    <div class="card is-child">
-      <div class="card-image">
-        <div class="overlay-container">
-          <figure class="image is-4by3">
-            <img
-              src="./assets/images/headshots/{{ member.image_name }}"
-              alt="{{ member.name }} headshot"
-            />
-          </figure>
-          <p class="body is-size-6 is-size-7-touch">{{ member.description }}</p>
+<div class="container">
+  <div class="title-section">
+    <h2>Meet the Team</h2>
+  </div>
+  {% for role in site.data.eboard-members %}
+  <h4>{{ role.name }}</h3>
+  <div class="row">
+    {% for member in role.members %}
+    <div class="col-md-6 col-lg-3">
+      <div class="img-block mb-5">
+        <img
+          src="./assets/images/headshots/{{ member.image_name }}"
+          class="img-fluid img-thumbnail rounded-circle"
+          alt="{{ member.name }} headshot"
+        />
+        <div class="content mt-2">
+          <h4>{{ member.name }}</h4>
+          <p class="text-muted">{{ member.year}}</p>
         </div>
       </div>
-      <div class="card-content">
-        <div class="title is-5">{{ member.name }}</div>
-        <div class="subtitle">{{ member.year }}</div>
-        <p class="is-size-6 is-size-7-mobile mobile-only-text">
-          {{ member.description }}
-        </p>
-      </div>
     </div>
+    {% endfor %}
   </div>
   {% endfor %}
 </div>
-{% endfor %} -->
 
 <h2>Hall Of Fame (Past Presidents)</h2>
 <ul>

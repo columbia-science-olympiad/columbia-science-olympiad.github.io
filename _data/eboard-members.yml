@@ -53,7 +53,7 @@
 
       - name: Pablo Buitrago
         year: 2025
-        image_name: ryan.png
+        image_name: pablo.png
         description: >
             I am Pablo and I am a Tech Event Director.
 
@@ -71,13 +71,13 @@
   members:
       - name: Katherine Estrada
         year: 2025
-        image_name: ryan.png
+        image_name: katherine.png
         description: >
             Hi I am Katherine
 
       - name: Sumaiyah Rahman
         year: 2026
-        image_name: ryan.png
+        image_name: sumaiyah.png
         description: >
             Hi I am Sumaiyah.
 
@@ -94,12 +94,12 @@
   members:
       - name: Christopher Hwu
         year: 2024
-        image_name: ryan.png
+        image_name: christopher.png
         description: >
             Graduate advisor helping with all things Chem.
 
 - seniors:
-  name: Senior Advisors/Past Presidents
+  name: Senior Advisors
   members:
       - name: Ryan Anselm
         year: 2024
