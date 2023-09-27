@@ -1,63 +1,59 @@
 .footer {
-    background-color: transparent;
-    display: flex;
-    height: auto;
-    justify-content: space-between;
-    flex-wrap: wrap;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .footer-brand {
-    font-family: "Outfit";
-    font-style: normal;
-    font-weight: 700;
-    font-size: 30px;
-    text-align: left;
-    text-transform: capitalize;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: left;
+  text-transform: capitalize;
 
-    color: #000000;
+  color: #000000;
 }
 
 .footer-title {
-    font-family: "Outfit";
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    text-align: left;
-    text-transform: capitalize;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  text-align: left;
+  text-transform: capitalize;
 
-    /* color: #000000; */
-    color: var(--white);
+  /* color: #000000; */
+  color: var(--white);
 }
 
 .list-style {
-    list-style-type: none !important;
-    cursor: pointer;
-    opacity: 0.8;
+  list-style-type: none !important;
+  cursor: pointer;
+  opacity: 0.8;
 }
 ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
 
 .end-gradient {
-    width: 100%;
-    height: 19px;
+  margin-top: 35px;
+  width: 100%;
+  height: 19px;
 
-    background: linear-gradient(
-        90deg,
-        #fc96bb 0%,
-        #a3d6fc 51.87%,
-        #a690fc 100%
-    );
+  background: linear-gradient(90deg, #fc96bb 0%, #a3d6fc 51.87%, #a690fc 100%);
 }
 
 @media screen and (max-width: 986px) {
-    /* make body and footer-title smaller */
-    .footer-title {
-        font-size: 16px;
-    }
-    .body {
-        font-size: 14px;
-    }
+  /* make body and footer-title smaller */
+  .footer-title {
+    font-size: 16px;
+  }
+  .body {
+    font-size: 14px;
+  }
 }

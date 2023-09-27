@@ -16,11 +16,52 @@
 
   --font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+p {
+  font-family: var(--font-family);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+  color: var(--white);
+  line-height: 180%;
+}
+h2 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+  color: var(--white);
+  line-height: 180%;
+}
+
+h4 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+  color: var(--white);
+  line-height: 130%;
+}
+
+li {
+  font-family: var(--font-family);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+  color: var(--white);
+  line-height: 180%;
+}
 
 .desktop {
   overflow-x: hidden;
   position: relative;
   background-color: #010922;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .info-padding {
