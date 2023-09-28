@@ -25,6 +25,15 @@ p {
   color: var(--white);
   line-height: 180%;
 }
+h1 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-title);
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+  color: var(--white);
+  line-height: 180%;
+}
 h2 {
   font-family: var(--font-family);
   font-size: var(--font-size-xxl);
@@ -34,7 +43,15 @@ h2 {
   color: var(--white);
   line-height: 180%;
 }
-
+h3 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+  color: var(--white);
+  line-height: 180%;
+}
 h4 {
   font-family: var(--font-family);
   font-size: var(--font-size-l);

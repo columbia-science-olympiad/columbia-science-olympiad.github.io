@@ -3,6 +3,11 @@ title: Tournament Info
 layout: info
 ---
 
+# 2024 Policies coming soon!
+
+Included is some of the information from last year, but it is subject to change.
+More updated 2024 policies and tournament info will be updated soon.
+
 ## **Tournament Policies**
 
 All tournament policies can be found on this comprehensive [Tournament Policies document](https://docs.google.com/document/d/1fzkt4LLBKsnJflHD-6r_KvFj5zyQBr7Gi_vtzA2CmB0/). This document contains all of the information below, plus more. This document and page may be updated leading up to the tournament.
@@ -26,7 +31,7 @@ Competitors are encouraged to take the subway or public bus to Columbia Universi
 #### Building Restrictions
 
 &nbsp;
-Science Olympiad competitors are restricted to Uris Hall, Pupin Hall, Lerner Hall, Earl Hall, Chandler Hall, Hamilton Hall, and Havemeyer Hall. Please do not access other buildings or floors in which events are not being held. _Competitors found outside of the competition area will incur a 10-point penalty per infraction to their team score._
+Science Olympiad competitors are restricted to [To be determined]. Please do not access other buildings or floors in which events are not being held. _Competitors found outside of the competition area will incur a 10-point penalty per infraction to their team score._
 
 &nbsp;
 
@@ -40,13 +45,13 @@ Some rooms may contain Columbia-owned projectors or computers. Use of these devi
 
 &nbsp;
 
-Team homerooms should be cleaned and vacated by **3:25 PM** to allow for Columbia volunteers to run out check-out procedures._ Please make sure that all policies (N.B. our food policy below) regarding rooms are followed. \_Violations of room policies will incur a 10 point penalty to all teams using the room._ Teams are encouraged to await the Awards Ceremony by attending the Finals Rounds of the Science Quiz Bowl Tournament in the Roone Arledge Auditorium in Lerner Hall beginning at 3:30 P.M. We are also conveniently located next to Central Park, Riverside Park, Hex & Co. Boardgame Cafe, and the 1 subway line for easy access into Manhattan.
+Team homerooms should be cleaned and vacated by **3:25 PM** to allow for Columbia volunteers to run out check-out procedures.\_ Please make sure that all policies (N.B. our food policy below) regarding rooms are followed. \_Violations of room policies will incur a 10 point penalty to all teams using the room.\_ We are also conveniently located next to Central Park, Riverside Park, Hex & Co. Boardgame Cafe, and the 1 subway line for easy access into Manhattan.
 
 &nbsp;
 
 #### Awards Ceremony
 
-Our awards ceremony will begin at 5:00 PM in Roone Arledge Auditorium in Lerner Hall. Please access Lerner Hall via the entrance on **Broadway between 115th and 114th Streets\***.\* Columbia public safety officers will be posted at the entrance guiding Science Olympiad affiliates.
+Our awards ceremony will begin at 5:00 PM in Roone Arledge Auditorium in Lerner Hall. Please access Lerner Hall via the entrance on **Broadway between 115th and 114th Streets**. Columbia public safety officers will be posted at the entrance guiding Science Olympiad affiliates.
 
 &nbsp;
 
@@ -56,9 +61,13 @@ Team packets will be returned after the awards ceremony in Roone Arledge Auditor
 
 ## **Event Schedule & Teams List**
 
-The tournament event schedule can be found [here](https://docs.google.com/spreadsheets/d/1bXm0771iAZCyP7o-EQcDlos_wHdpZ9wvh0h4GoqnL_k/edit#gid=0).
+The tournament event schedule can be found [coming soon]
 
-The list of attending teams (with team numbers and homerooms) can be found [here](https://drive.google.com/file/d/1EGNX54uHr2ejXQwZd5m9Eu4LqeRHh-Es/view?usp=sharing).
+<!-- [here](https://docs.google.com/spreadsheets/d/1bXm0771iAZCyP7o-EQcDlos_wHdpZ9wvh0h4GoqnL_k/edit#gid=0). -->
+
+The list of attending teams (with team numbers and homerooms) can be found [coming soon]
+
+<!-- [here](https://drive.google.com/file/d/1EGNX54uHr2ejXQwZd5m9Eu4LqeRHh-Es/view?usp=sharing). -->
 
 ## **Required Forms**
 
@@ -66,11 +75,17 @@ All competitors (& alternates) must complete the [publicity release and code of 
 
 All coaches must complete the [roster & vandalism form](https://drive.google.com/file/d/1xAN8OU_Ge_H3Jh47LZyYEyErafXPRveS/view?usp=sharing) **once for each registered team**.
 
-Please print out and complete the above forms, scan and upload them into one Google Drive or Dropbox folder per team, then submit the folder for each team to the following Google form by **11:59PM ET January 21st, 2023**: [Release Forms Submission - Columbia University Science Olympiad 2023](https://docs.google.com/forms/d/e/1FAIpQLSfphoFfo3MQbbXs_YGonbaaisSt2rdlEuJ-qxIBwzszVyXqPw/viewform?usp=sf_link)
+Please print out and complete the above forms, scan and upload them into one Google Drive or Dropbox folder per team, then submit the folder for each team [stay tuned for updates]
+
+<!-- to the following Google form by **11:59PM ET January 21st, 2023**: [Form coming soon] -->
+
+<!-- [Release Forms Submission - Columbia University Science Olympiad 2023](https://docs.google.com/forms/d/e/1FAIpQLSfphoFfo3MQbbXs_YGonbaaisSt2rdlEuJ-qxIBwzszVyXqPw/viewform?usp=sf_link) -->
 
 ## **Event Clarifications**
 
-**Self-Schedule:** Self-scheduling for engineering events (one hour time slots) and the Preliminaries Round of Science Quiz Bowl (20 minute time slots) will open at 3PM EST on January 16th, 2024 via google forms.
+**Self-Schedule:** Information will be coming soon
+
+<!-- Self-scheduling for engineering events (one hour time slots) and the Preliminaries Round of Science Quiz Bowl (20 minute time slots) will open at 3PM EST on January 16th, 2024 via google forms. -->
 
 **Flight:** The venue for Flight will be Earl Hall Auditorium. The room has dimensions 25’x17’ with a height of approximately 25’. There is an immovable chandelier at the center of the auditorium. Please keep this in mind when designing your flight device. Pictures of the auditorium ceiling can be found [here](https://drive.google.com/file/d/14bIp1Kvv59TWBG-9V0OWv7S8vb6okSND/view?usp=sharing).
 
