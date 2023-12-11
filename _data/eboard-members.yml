@@ -16,7 +16,7 @@
   name: Secretary
   members:
       - name: Aunika Zheng
-        year: 2023
+        year: 2024
         image_name: aunika.png
         description: >
             I am in BME. And This will be filled.
@@ -85,7 +85,7 @@
   name: Volunteer Director
   members:
       - name: Elaine Huang
-        year: 2024
+        year: 2025
         image_name: elaine.png
         description: >
 
@@ -99,7 +99,7 @@
             Graduate advisor helping with all things Chem.
 
 - seniors:
-  name: Senior Advisors
+  name: Senior Advisor
   members:
       - name: Ryan Anselm
         year: 2024
