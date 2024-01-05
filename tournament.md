@@ -3,7 +3,7 @@ title: Tournament Info
 layout: info
 ---
 
-# 2024 Policies coming soon!
+# 2024 Policies Out Now!
 
 Included is some of the information from last year, but it is subject to change.
 More updated 2024 policies and tournament info will be updated soon.
@@ -81,7 +81,7 @@ Please print out and complete the above forms, scan and upload them into one Goo
 
 <!-- Self-scheduling for engineering events (one hour time slots) and the Preliminaries Round of Science Quiz Bowl (20 minute time slots) will open at 3PM EST on January 16th, 2024 via google forms. -->
 
-**Flight:** The venue for Flight will be Earl Hall Auditorium. The room has dimensions 25’x17’ with a height of approximately 25’. There is an immovable chandelier at the center of the auditorium. Please keep this in mind when designing your flight device. Pictures of the auditorium ceiling can be found [here](https://drive.google.com/file/d/14bIp1Kvv59TWBG-9V0OWv7S8vb6okSND/view?usp=sharing).
+**Flight:** The venue for Flight will be Earl Hall Auditorium. The room has dimensions 36’x 32’ with a height of approximately 25’. There is an immovable chandelier at the center of the auditorium. Please keep this in mind when designing your flight device. Pictures of the auditorium ceiling can be found [here](https://drive.google.com/file/d/14bIp1Kvv59TWBG-9V0OWv7S8vb6okSND/view?usp=sharing).
 
 **We’ve Got Your Number (Trial):** Tentative
 
