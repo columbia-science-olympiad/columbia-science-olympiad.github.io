@@ -10,7 +10,7 @@ More updated 2024 policies and tournament info will be updated soon.
 
 ## **Tournament Policies**
 
-All tournament policies can be found on this comprehensive [Tournament Policies document](https://docs.google.com/document/d/1fzkt4LLBKsnJflHD-6r_KvFj5zyQBr7Gi_vtzA2CmB0/). This document contains all of the information below, plus more. This document and page may be updated leading up to the tournament.
+All tournament policies can be found on this comprehensive [Tournament Policies document](https://docs.google.com/document/d/1ysnJmlTpUZK1bc3bMWbfhAiM_wa4NGINlIeoavXI6Ys/edit?usp=drive_link). This document contains all of the information below, plus more. This document and page may be updated leading up to the tournament.
 
 ## **Tournament Day-Of Information and Policies**
 
@@ -61,25 +61,19 @@ Team packets will be returned after the awards ceremony in Roone Arledge Auditor
 
 ## **Event Schedule & Teams List**
 
-The tournament event schedule can be found [coming soon]
+The tournament event schedule can be found [here](https://docs.google.com/spreadsheets/d/1XpcXo1L4KHVtNDlEDGxHZuXJTaObWJq9sUXs1W_4rDA/edit?usp=drive_link)
 
-<!-- [here](https://docs.google.com/spreadsheets/d/1bXm0771iAZCyP7o-EQcDlos_wHdpZ9wvh0h4GoqnL_k/edit#gid=0). -->
-
-The list of attending teams (with team numbers and homerooms) can be found [coming soon]
-
-<!-- [here](https://drive.google.com/file/d/1EGNX54uHr2ejXQwZd5m9Eu4LqeRHh-Es/view?usp=sharing). -->
+The list of attending teams (with team numbers and homerooms) can be found [here](https://docs.google.com/spreadsheets/d/1GPiPle1czDVFfVXfOzSeqaT34jZFXc3d0OghmXzhGSk/edit#gid=1748823396)
 
 ## **Required Forms**
 
-All competitors (& alternates) must complete the [publicity release and code of conduct form](https://drive.google.com/open?id=1QeVx6K1pF4mJwSk6TXKPueO01qUDoGU1).
+All competitors (& alternates) must complete the [publicity release and code of conduct form](https://docs.google.com/forms/d/e/1FAIpQLSfuGRxgNf-wG9Kyi5Xl6Cd5mjSum2UnQV0K8NrJzMbJvqV1VA/viewform?usp=sharing).
 
 All coaches must complete the [roster & vandalism form](https://drive.google.com/file/d/1xAN8OU_Ge_H3Jh47LZyYEyErafXPRveS/view?usp=sharing) **once for each registered team**.
 
+Chemistry Form [form](https://docs.google.com/forms/d/e/1FAIpQLSfwmHVADbut484tf4XFdXeEH8N53F-RA16dU1L0EMt2IfyqrA/viewform?usp=sharing)
+
 Please print out and complete the above forms, scan and upload them into one Google Drive or Dropbox folder per team, then submit the folder for each team [stay tuned for updates]
-
-<!-- to the following Google form by **11:59PM ET January 21st, 2023**: [Form coming soon] -->
-
-<!-- [Release Forms Submission - Columbia University Science Olympiad 2023](https://docs.google.com/forms/d/e/1FAIpQLSfphoFfo3MQbbXs_YGonbaaisSt2rdlEuJ-qxIBwzszVyXqPw/viewform?usp=sf_link) -->
 
 ## **Event Clarifications**
 
