@@ -15,8 +15,8 @@ layout: info
 -   [Coach Roster and Vandalism form](https://drive.google.com/file/d/1293QmJiXz8317Q8Nzo3TQ06wZIJLZd8w/view)
 -   [Release Forms Submission - Columbia University Science Olympiad 2024](https://docs.google.com/forms/d/e/1FAIpQLSfuGRxgNf-wG9Kyi5Xl6Cd5mjSum2UnQV0K8NrJzMbJvqV1VA/viewform?usp=sharing)
 -   [Scilympiad Self-Schedule (Air Trajectory, Flight, Robot Tour, Scrambler, Tower, Detector Building, and Science Quiz Bowl)](https://scilympiad.com/columbia/Reg)
--   [Self-Schedule (Optics)](https://drive.google.com/open?id=1U90YUZUG-Fgqn8dlF3zbdbAtnD1jbq41vM2AnI-N_wk)
--   [Self-Schedule (Wind Power)](https://drive.google.com/open?id=1mkBEi4wVBZyp5RtSsKeqonLVv1WgP-IiIlMZ3konlac)
+-   [Self-Schedule (Optics)](https://forms.gle/r6z1eNH4svgHFjM88)
+-   [Self-Schedule (Wind Power)](https://forms.gle/5j5F7zRjskwoV4PY7)
 
 ## **Tournament Policies**
 
