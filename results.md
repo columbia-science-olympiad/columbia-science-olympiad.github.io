@@ -14,10 +14,8 @@ A huge thank you to everyone that competed in our 2024 tournament! We look forwa
 **2024**:
 
 -   [Exams and Answer Keys](https://drive.google.com/drive/u/2/folders/15oJshOCQmT-kuPleEQh862FIt3_7ljze)
--   [Final Scores (Rank Order)](https://drive.google.com/file/d/1jw92mjKd-F08bZ0DVmLaWpKSD78TOBy8/view?usp=sharing)
--   [Final Scores (Team Number Order)](https://drive.google.com/file/d/13RfsBXe5ThTBGTYL_-du0MwkUHhLI_HZ/view?usp=sharing)
-
-    Note: Results for Cybersecurity (Trial Event) are still being finalized.
+-   [Final Scores (Rank Order)](https://drive.google.com/file/d/1ELwBQKOuXhuINym4s7L_Ie9u9aUZM0Xb/view?usp=sharing)
+-   [Final Scores (Team Number Order)](https://drive.google.com/file/d/1yz6KUYsUObcWg_vIc1CJcvUA15w7zXDB/view?usp=sharing)
 
 ### Past Results:
 
