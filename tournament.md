@@ -17,7 +17,7 @@ layout: info
 
 ## **Tournament Policies**
 
-### (Updated for 2025) All tournament policies can be found on the comprehensive [Tournament Policies document](https://docs.google.com/document/d/1IlFknsVw8fpRdTKfAQwndK7F_FJkamlgDfGZhB3m3Fs/edit?usp=sharing).
+### (Coming Soon !!!) All tournament policies can be found on the comprehensive [Tournament Policies document]().
 
 Check-In: **6:00 AM - 6:45 AM in Hamilton Hall, South Floor Lobby Entrance**.
 

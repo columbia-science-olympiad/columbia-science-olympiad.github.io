@@ -5,7 +5,7 @@ title: help
 
 ## Here are a list of some of our most important links!
 
-#### Links for Competitors and Coaches
+#### Links for Competitors and Coaches (Updated 2025 Links Coming soon!)
 
 -   Tournament Policies Document: [Latest Policies](https://docs.google.com/document/d/1fzkt4LLBKsnJflHD-6r_KvFj5zyQBr7Gi_vtzA2CmB0/edit#heading=h.s72gt7bypfn5)
 
