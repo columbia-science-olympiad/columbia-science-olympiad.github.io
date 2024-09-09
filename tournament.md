@@ -19,6 +19,14 @@ layout: info
 
 ### (Coming Soon !!!) All tournament policies can be found on the comprehensive [Tournament Policies document]().
 
+## Trial Event Information
+
+-   Period Table Quiz Event Rules! [Click here for Rules](https://docs.google.com/document/d/1FJ2al9GpvckfrGTmrC3XqEVGtrlCHgv0q48Q1ueMV9Y/edit?usp=sharing)
+-   Science Quiz Bowl Event Rules! [Click here for Rules](https://docs.google.com/document/d/1n75HFtPcuURw4dRdZKRhk1AfoW87i42JSpHX4EOUWqw/edit?usp=sharing)
+-   Picture This Event Rules! [Click here for rules](https://drive.google.com/file/d/15VBWg69RdOoy1lnkt4-ha3JwvseQCSOK/view?usp=sharing)
+
+# Check In information
+
 Check-In: **6:00 AM - 6:45 AM in Hamilton Hall, South Floor Lobby Entrance**.
 
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)
