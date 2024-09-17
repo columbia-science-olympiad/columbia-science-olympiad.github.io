@@ -1,92 +1,67 @@
 - tds:
-  name: 2024 Tournament Directors
+  name: 2025 Tournament Directors
   members:
       - name: Kaylee Fang
         year: 2025
-        image_name: kaylee.png
+        image_name: kaylee.jpeg
         description: >
-            My name is Kaylee and I am studying Computer Science and Premed. I love systems programming.
-      - name: Ania Krzyżańska
-        year: 2025
-        image_name: ania.png
+
+      - name: Tanmay Gupta
+        year: 2027
+        image_name: tanmay.jpeg
         description: >
-            I am a Junior studying CSE and I also love Systems Programming.
 
 - secretary:
   name: Secretary
   members:
-      - name: Aunika Zheng
-        year: 2024
-        image_name: aunika.png
+      - name: Matthew Lee
+        year: 2027
+        image_name: matthew.jpeg
         description: >
-            I am in BME. And This will be filled.
 
-- finance:
+- treasurer:
   name: Treasurer
   members:
-      - name: Erik Trebilcock
-        year: 2025
-        image_name: erik.png
+      - name: Sumaiyah Rahman
+        year: 2026
+        image_name: sumaiyah.jpeg
         description: >
-            IDK who this is
 
 - events:
   name: Events Directors
   members:
-      - name: Dale Yu
-        year: 2025
-        image_name: dale.png
+      - name: Mallory Thomas
+        year: 2027
+        image_name: mallory.jpeg
         description: >
-            I am a Junior in Columbia College Studying Computer Science and East Asian Studies.
 
-      - name: Colin Davis
-        year: 2025
-        image_name: colin.png
-        description: >
-            I am Colin and I am in CC.
-
-      - name: Hreedi Dev
-        year: 2024
-        image_name: hreedi.png
-        description: >
-            I am Hreedi.
-
-      - name: Pablo Buitrago
-        year: 2025
-        image_name: pablo.png
-        description: >
-            I am Pablo and I am a Tech Event Director.
-
-- publicity:
-  name: Publicity Director
+- outreach:
+  name: Outreach Director
   members:
-      - name: Mingying Yeoh
-        year: 2025
-        image_name: mingying.png
+      - name: Amanda Lin
+        year: 2027
+        image_name: amanda.jpeg
         description: >
-            Korean
 
 - logistics:
   name: Logistics
   members:
-      - name: Katherine Estrada
+      - name: Ania Krzyżańska
         year: 2025
-        image_name: katherine.png
+        image_name: ania.jpeg
         description: >
-            Hi I am Katherine
 
-      - name: Sumaiyah Rahman
-        year: 2026
-        image_name: sumaiyah.png
+      - name: Leo Li
+        year: 2027
+        image_name: leo.jpeg
         description: >
-            Hi I am Sumaiyah.
 
-- volunteer:
-  name: Volunteer Director
+- webmaster:
+  name: Webmaster
   members:
-      - name: Elaine Huang
+      - name: Dale Yu
         year: 2025
-        image_name: elaine.png
+        image_name: dale.jpeg
         description: >
 
 - grad-stud:
@@ -94,15 +69,28 @@
   members:
       - name: Christopher Hwu
         year: 2024
-        image_name: christopher.png
+        image_name: christopher.jpeg
         description: >
-            Graduate advisor helping with all things Chem.
 
 - seniors:
-  name: Senior Advisor
+  name: Senior Advisors
   members:
-      - name: Ryan Anselm
-        year: 2024
-        image_name: ryan.png
+      - name: Ming Ying Yeoh
+        year: 2025
+        image_name: mingying.jpeg
         description: >
-            I am Ryan.
+
+      - name: Erik Trebilcock
+        year: 2025
+        image_name: 2024/erik.png
+        description: >
+
+      - name: Elaine Huang
+        year: 2025
+        image_name: 2024/elaine.png
+        description: >
+
+      - name: Colin Davis
+        year: 2025
+        image_name: colin.jpeg
+        description: >
