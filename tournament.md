@@ -25,6 +25,7 @@ layout: info
 -   Science Quiz Bowl Event Rules! [Click here for Rules](https://docs.google.com/document/d/1n75HFtPcuURw4dRdZKRhk1AfoW87i42JSpHX4EOUWqw/edit?usp=sharing)
 -   Picture This Event Rules! [Click here for Rules](https://drive.google.com/file/d/15VBWg69RdOoy1lnkt4-ha3JwvseQCSOK/view?usp=sharing)
 -   Fermi Questions Event Rules! [Click here for Rules](https://drive.google.com/file/d/1RQQ4DyF8_o6XMYdUEKAVoIyrVvVdVx5r/view?usp=sharing)
+-   Quantum Quandaries Event Rules! [Click here for Rules](https://docs.google.com/document/d/1xESli1rf_g9-pRzX10eqH3kBlfPQcBxCt6mCIw5WM44/edit?usp=drive_link)
 
 # Check In information
 
