@@ -7,11 +7,11 @@ title: help
 
 #### Links for Competitors and Coaches (Updated 2025 Links Coming soon!)
 
--   Tournament Policies Document: [Latest Policies](https://docs.google.com/document/d/1fzkt4LLBKsnJflHD-6r_KvFj5zyQBr7Gi_vtzA2CmB0/edit#heading=h.s72gt7bypfn5)
+-   Tournament Policies Document: [Latest Policies]()
 
--   Tournament Schedule: [Schedule](https://docs.google.com/spreadsheets/d/1bXm0771iAZCyP7o-EQcDlos_wHdpZ9wvh0h4GoqnL_k/edit#gid=0)
+-   Tournament Schedule: [Schedule]()
 
--   Roster of Teams: [Attending Teams](https://drive.google.com/file/d/1EGNX54uHr2ejXQwZd5m9Eu4LqeRHh-Es/view?usp=sharing)
+-   Roster of Teams: [Attending Teams]()
 
 -   Bus Information: [Charter Buses](https://www.nyc.gov/html/dot/html/ferrybus/charterbus.shtml)
 
@@ -19,19 +19,16 @@ title: help
 
 #### Required Forms!
 
--   Publicity release and code of conduct form: [Form](https://drive.google.com/open?id=1QeVx6K1pF4mJwSk6TXKPueO01qUDoGU1)
-
--   Vandalism Form: [Form](https://drive.google.com/file/d/1xAN8OU_Ge_H3Jh47LZyYEyErafXPRveS/view?usp=sharing)
-
--   Submission link for Form: [Submit here](https://docs.google.com/forms/d/e/1FAIpQLSfphoFfo3MQbbXs_YGonbaaisSt2rdlEuJ-qxIBwzszVyXqPw/viewform?usp=sf_link)
+-   [Student publicity release and code of conduct form](https://drive.google.com/file/d/1-131tYmP8PPzylr3VeXhTCcMi_suMYJA/view?usp=sharing)
+-   [Coach Roster and Vandalism form](https://drive.google.com/file/d/1MOoaA0ErxXpBPtz-NxVYq-dnQFEeRszN/view?usp=sharing)
+-   [Release Forms Submission](https://docs.google.com/forms/d/e/1FAIpQLSel10XS70Pr1NO2oyUAcdzz2XtQuk1lnsl-5XutxVslIHTziQ/viewform?usp=sf_link)
+-   [Chemistry Video Attestation form](https://docs.google.com/forms/d/e/1FAIpQLSepM3v1yWE8oy7Q13W_C2fMoTk_CbZ6oO9ZWx3KKHccMcoNbw/viewform?usp=sf_link)
 
 &nbsp;
 
 #### Interest Links for Columbia Students/ Club Members
 
--   Join our mailing list for most recent info here: [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSek7v3_c78jiblS171_KaIOocF7J_H9RhhzR9rshwUu8pP_hw/viewform)
-
--   Register to be an Event Supervisor: [Event Supervisor Link](https://forms.gle/3qBt9qefGHnDE78E6)
+-   Join our mailing list for most recent info here: [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdyCSZsPDcS0zlmQHL00FIyM8HDTh3BAEZG9cYMEX2wce9pUQ/viewform)
 
 -   Register to be a Volunteer during Tournament: [Volunteering not out yet]()
 

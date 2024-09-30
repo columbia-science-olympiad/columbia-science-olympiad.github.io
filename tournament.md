@@ -5,15 +5,17 @@ layout: info
 
 ## **Tournament Quick Links**
 
--   Updated Form Coming Soon! [Tournament Schedule](https://docs.google.com/spreadsheets/d/1XpcXo1L4KHVtNDlEDGxHZuXJTaObWJq9sUXs1W_4rDA)
--   Updated Form Coming Soon! [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/1GPiPle1czDVFfVXfOzSeqaT34jZFXc3d0OghmXzhGSk)
--   (Updated For 2025) [Columbia University Campus Navigation Guide](https://docs.google.com/document/d/1CtxgVkWIwmtXUkV5Uz2SpwcrXxMwabE0QgLoCO_wjzI/edit?usp=sharing)
+-   Updated Document Coming Soon! [Tournament Schedule](https://docs.google.com/spreadsheets/d/1XpcXo1L4KHVtNDlEDGxHZuXJTaObWJq9sUXs1W_4rDA)
+-   Updated Document Coming Soon! [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/1GPiPle1czDVFfVXfOzSeqaT34jZFXc3d0OghmXzhGSk)
+-   [Columbia University Campus Navigation Guide](https://docs.google.com/document/d/1CtxgVkWIwmtXUkV5Uz2SpwcrXxMwabE0QgLoCO_wjzI/edit?usp=sharing)
 
 #### Other Links
 
--   Updated Form Coming Soon! [Student publicity release and code of conduct form](https://drive.google.com/file/d/1GSCqMIahGi7MW0GInIoeo4ZSI0TR8_Z-/view)
--   Updated Form Coming Soon! [Coach Roster and Vandalism form](https://drive.google.com/file/d/1293QmJiXz8317Q8Nzo3TQ06wZIJLZd8w/view)
--   Updated Form Coming Soon! [Updated Release Forms Submission - Columbia University Science Olympiad 2025](https://docs.google.com/forms/d/1yfpIoGtLmoNzgONTBuJH5BlTPwF8xqAHihkqOixwcMU/viewform?edit_requested=true)
+-   [Student publicity release and code of conduct form](https://drive.google.com/file/d/1-131tYmP8PPzylr3VeXhTCcMi_suMYJA/view?usp=sharing)
+-   [Coach Roster and Vandalism form](https://drive.google.com/file/d/1MOoaA0ErxXpBPtz-NxVYq-dnQFEeRszN/view?usp=sharing)
+-   [Release Forms Submission](https://docs.google.com/forms/d/e/1FAIpQLSel10XS70Pr1NO2oyUAcdzz2XtQuk1lnsl-5XutxVslIHTziQ/viewform?usp=sf_link)
+-   [Chemistry Video Attestation form](https://docs.google.com/forms/d/e/1FAIpQLSepM3v1yWE8oy7Q13W_C2fMoTk_CbZ6oO9ZWx3KKHccMcoNbw/viewform?usp=sf_link)
+-   [Suggested Hotel List](https://docs.google.com/document/d/13x8-e_ObBGzqwf_jNJZJemF-4yKcnkfd5F1fo4pB5eM/edit?usp=sharing)
 
 ## **Tournament Policies**
 

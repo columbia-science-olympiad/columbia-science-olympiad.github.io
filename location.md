@@ -8,7 +8,7 @@ keywords: "location"
 
 Here we will post your room numbers and locations of all the rooms. If you need help make sure to ask one of our volunteers and we will be happy to help:
 
-Click here for location help [Navigation Guide](https://docs.google.com/document/d/1juDnyx8VBCIyzpVtha8GFEKndY1h53tz0iDBv1nSHdg/edit)
+Updated Navigation Guide coming soon! [Navigation Guide]()
 
 -   Event Locations: TBA
 -   Team Room Locations: TBA
