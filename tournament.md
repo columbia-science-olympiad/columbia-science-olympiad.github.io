@@ -28,6 +28,7 @@ layout: info
 -   Picture This Event Rules! [Click here for Rules](https://drive.google.com/file/d/15VBWg69RdOoy1lnkt4-ha3JwvseQCSOK/view?usp=sharing)
 -   Fermi Questions Event Rules! [Click here for Rules](https://drive.google.com/file/d/1RQQ4DyF8_o6XMYdUEKAVoIyrVvVdVx5r/view?usp=sharing)
 -   Quantum Quandaries Event Rules! [Click here for Rules](https://docs.google.com/document/d/1xESli1rf_g9-pRzX10eqH3kBlfPQcBxCt6mCIw5WM44/edit?usp=drive_link)
+-   Rocks And Minerals Event Rules! [Click here for Rules](https://drive.google.com/file/d/1TyTWqIlGqNmzfwgim7AX_9ReQn_Q8VeB/view?usp=sharing)
 
 # Check In information
 
