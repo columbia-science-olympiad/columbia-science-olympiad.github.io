@@ -30,8 +30,11 @@ layout: info
 -   Quantum Quandaries Event Rules! [Click here for Rules](https://docs.google.com/document/d/1xESli1rf_g9-pRzX10eqH3kBlfPQcBxCt6mCIw5WM44/edit?usp=drive_link)
 -   Rocks And Minerals Event Rules! [Click here for Rules](https://drive.google.com/file/d/1TyTWqIlGqNmzfwgim7AX_9ReQn_Q8VeB/view?usp=sharing)
 
-# Check In information
+## Schedule Information
 
-Check-In: **6:00 AM - 6:30 AM in Hamilton Hall, South Floor Lobby Entrance**.
+Check-In: **5:30 AM - 6:30 AM in Hamilton Hall, South Floor Lobby Entrance**. \\
+Events: **6:35 AM - 4:25 PM** \\
+Science Quiz Bowl Finals: **5:00 PM - 6:30 PM** \\
+Awards Ceremony: **Starts at 7:00 PM**
 
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)
