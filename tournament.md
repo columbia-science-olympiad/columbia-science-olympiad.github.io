@@ -32,7 +32,7 @@ layout: info
 
 ## Schedule Information
 
-Check-In: **5:30 AM - 6:30 AM in Hamilton Hall, South Floor Lobby Entrance**. \\
+Check-In: **5:30 AM - 6:30 AM at Lerner Broadway Entrance** \\
 Events: **6:35 AM - 4:25 PM** \\
 Science Quiz Bowl Finals: **5:00 PM - 6:30 PM** \\
 Awards Ceremony: **Starts at 7:00 PM**
