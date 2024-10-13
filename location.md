@@ -11,7 +11,7 @@ Here we will post your room numbers and locations of all the rooms. If you need 
 Updated Navigation Guide coming soon! [Navigation Guide]()
 
 -   Event Locations: TBA
--   Team Room Locations: TBA
+-   [Team Room Locations](https://docs.google.com/spreadsheets/d/187Y4JQOhtxhCaDNKDSI3ByMmsvfmC56bgT5k7hTEDA4/edit?usp=sharing)
 
 <br> <br>
 Here is a map below in case you don't have one already. Most of your events will occur in one of these buildings North of College Walk. If your home room is in Hamiliton or Event in Lerner then you will be located South of College walk.

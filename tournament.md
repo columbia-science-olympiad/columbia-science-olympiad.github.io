@@ -6,7 +6,7 @@ layout: info
 ## **Tournament Quick Links**
 
 -   Updated Document Coming Soon! [Tournament Schedule](https://docs.google.com/spreadsheets/d/1XpcXo1L4KHVtNDlEDGxHZuXJTaObWJq9sUXs1W_4rDA)
--   Updated Document Coming Soon! [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/1GPiPle1czDVFfVXfOzSeqaT34jZFXc3d0OghmXzhGSk)
+-   [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/187Y4JQOhtxhCaDNKDSI3ByMmsvfmC56bgT5k7hTEDA4/edit?usp=sharing)
 -   [Columbia University Campus Navigation Guide](https://docs.google.com/document/d/1CtxgVkWIwmtXUkV5Uz2SpwcrXxMwabE0QgLoCO_wjzI/edit?usp=sharing)
 
 #### Other Links
@@ -29,6 +29,12 @@ layout: info
 -   Fermi Questions Event Rules! [Click here for Rules](https://drive.google.com/file/d/1RQQ4DyF8_o6XMYdUEKAVoIyrVvVdVx5r/view?usp=sharing)
 -   Quantum Quandaries Event Rules! [Click here for Rules](https://docs.google.com/document/d/1xESli1rf_g9-pRzX10eqH3kBlfPQcBxCt6mCIw5WM44/edit?usp=drive_link)
 -   Rocks And Minerals Event Rules! [Click here for Rules](https://drive.google.com/file/d/1TyTWqIlGqNmzfwgim7AX_9ReQn_Q8VeB/view?usp=sharing)
+
+## Helicopter Information
+
+The venue for Helicopter will be Earl Hall Auditorium. The room has dimensions 51' x 52' with a height of approximately 25'. There is an immovable chandelier at the center of the auditorium. Please keep this in mind when designing your helicopter.
+
+<img src="/assets/images/CU%20Science%20Olympiad%202025%20-%20Earl%20Hall%20-%20Ceiling.jpg" alt="celing picture" width="50%"/>
 
 ## Schedule Information
 
