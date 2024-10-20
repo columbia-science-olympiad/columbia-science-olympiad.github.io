@@ -5,7 +5,7 @@ layout: info
 
 ## **Tournament Quick Links**
 
--   Updated Document Coming Soon! [Tournament Schedule](https://docs.google.com/spreadsheets/d/1XpcXo1L4KHVtNDlEDGxHZuXJTaObWJq9sUXs1W_4rDA)
+-   [Tournament Schedule](https://docs.google.com/spreadsheets/d/1QZvuqBBnfoW_F3HZosSXDci9YwmJ8677YF3D7mbyIHA/edit?usp=sharing)
 -   [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/187Y4JQOhtxhCaDNKDSI3ByMmsvfmC56bgT5k7hTEDA4/edit?usp=sharing)
 -   [Columbia University Campus Navigation Guide](https://docs.google.com/document/d/1CtxgVkWIwmtXUkV5Uz2SpwcrXxMwabE0QgLoCO_wjzI/edit?usp=sharing)
 
@@ -19,7 +19,7 @@ layout: info
 
 ## **Tournament Policies**
 
-### (Coming Soon !!!) All tournament policies can be found on the comprehensive [Tournament Policies document]().
+### All tournament policies can be found on the comprehensive [Tournament Policies document](https://docs.google.com/document/d/1IlFknsVw8fpRdTKfAQwndK7F_FJkamlgDfGZhB3m3Fs/edit?usp=sharing).
 
 ## Trial Event Information
 
