@@ -36,6 +36,12 @@ The venue for Helicopter will be Earl Hall Auditorium. The room has dimensions 5
 
 <img src="/assets/images/CU%20Science%20Olympiad%202025%20-%20Earl%20Hall%20-%20Ceiling.jpg" alt="celing picture" width="50%"/>
 
+## Bungee Drop Information
+
+The venue for Bungee Drop will be from a stairwell in the Northwest Corner Building.
+
+<img src="/assets/images/noco-bungeedrop.jpg" alt="stairwell picture" width="50%"/>
+
 ## Schedule Information
 
 Check-In: **5:30 AM - 6:30 AM at Lerner Broadway Entrance** \\
