@@ -32,9 +32,10 @@ layout: info
 
 ## Helicopter Information
 
-The venue for Helicopter will be Earl Hall Auditorium. The room has dimensions 51' x 52' with a height of approximately 25'. There is an immovable chandelier at the center of the auditorium. Please keep this in mind when designing your helicopter.
+The venue for Helicopter will be International Affairs Building 417. The room has dimensions TBD.
 
-<img src="/assets/images/CU%20Science%20Olympiad%202025%20-%20Earl%20Hall%20-%20Ceiling.jpg" alt="celing picture" width="50%"/>
+<img src="/assets/images/iab417-1.jpg" alt="celing picture" width="50%"/>
+<img src="/assets/images/iab417-2.jpg" alt="celing picture" width="50%"/>
 
 ## Bungee Drop Information
 
