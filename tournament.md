@@ -34,8 +34,7 @@ layout: info
 
 The venue for Helicopter will be International Affairs Building 417. The room has dimensions TBD.
 
-<img src="/assets/images/iab417-1.jpg" alt="celing picture" width="50%"/>
-<img src="/assets/images/iab417-2.jpg" alt="celing picture" width="50%"/>
+<img src="/assets/images/iab417-1.jpg" alt="celing picture" width="40%"/> <img src="/assets/images/iab417-2.jpg" alt="celing picture" width="40%"/>
 
 ## Bungee Drop Information
 
