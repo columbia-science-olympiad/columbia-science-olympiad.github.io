@@ -5,13 +5,13 @@ title: help
 
 ## Here are a list of some of our most important links!
 
-#### Links for Competitors and Coaches (Updated 2025 Links Coming soon!)
+#### Links for Competitors and Coaches
 
--   Tournament Policies Document: [Latest Policies]()
+-   Tournament Policies Document: [Latest Policies](https://docs.google.com/document/d/1IlFknsVw8fpRdTKfAQwndK7F_FJkamlgDfGZhB3m3Fs/edit?usp=sharing)
 
--   Tournament Schedule: [Schedule]()
+-   Tournament Schedule: [Schedule](https://docs.google.com/spreadsheets/d/1QZvuqBBnfoW_F3HZosSXDci9YwmJ8677YF3D7mbyIHA/edit?usp=sharing)
 
--   Roster of Teams: [Attending Teams]()
+-   Roster of Teams: [Attending Teams](https://docs.google.com/spreadsheets/d/187Y4JQOhtxhCaDNKDSI3ByMmsvfmC56bgT5k7hTEDA4/edit?usp=sharing)
 
 -   Bus Information: [Charter Buses](https://www.nyc.gov/html/dot/html/ferrybus/charterbus.shtml)
 
@@ -30,7 +30,7 @@ title: help
 
 -   Join our mailing list for most recent info here: [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdyCSZsPDcS0zlmQHL00FIyM8HDTh3BAEZG9cYMEX2wce9pUQ/viewform)
 
--   Register to be a Volunteer during Tournament: [Volunteering not out yet]()
+-   Register to be a Volunteer during Tournament: [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeAnnDUcgii4lVFL3s4OMZVMvMrX3tLdr1MU1Wv86ZidzYACA/viewform?usp=sf_link)
 
 &nbsp;
 
