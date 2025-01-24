@@ -40,7 +40,7 @@ The venue for Helicopter will be International Affairs Building 417. The room ha
 
 The venue for Bungee Drop will be from a stairwell in the Northwest Corner Building.
 
-<img src="/assets/images/noco-bungeedrop.jpg" alt="stairwell picture" width="50%"/>
+<img src="/assets/images/bungee (1).jpg" alt="stair picture" width="40%"/> <img src="/assets/images/bungee (2).jpg" alt="stair picture" width="40%"/>
 
 ## Schedule Information
 
