@@ -9,15 +9,21 @@ date: 2023-07-01
 </p>
 # **Results**
 
-A huge thank you to everyone that competed in our 2024 tournament! We look forward to hosting more tournaments in the future and seeing you there!
+A huge thank you to everyone that competed in our 2025 tournament! We look forward to hosting more tournaments in the future and seeing you there!
+
+**2025**:
+
+-   [Final Scores (Rank Order)](https://drive.google.com/file/d/18aoobMJ11mRxAccYxGwN3l7ngwkoMcMW/view?usp=sharing)
+-   [Final Scores (Team Number Order)](https://drive.google.com/file/d/1lFPaHfHT5lLx4JtYC07R74WkN37eHm9P/view?usp=sharing)
+-   [Exams and Answer Keys (coming soon!)]()
+
+### Past Results:
 
 **2024**:
 
--   [Exams and Answer Keys](https://drive.google.com/drive/u/2/folders/15oJshOCQmT-kuPleEQh862FIt3_7ljze)
 -   [Final Scores (Rank Order)](https://drive.google.com/file/d/1ELwBQKOuXhuINym4s7L_Ie9u9aUZM0Xb/view?usp=sharing)
 -   [Final Scores (Team Number Order)](https://drive.google.com/file/d/1yz6KUYsUObcWg_vIc1CJcvUA15w7zXDB/view?usp=sharing)
-
-### Past Results:
+-   [Exams and Answer Keys](https://drive.google.com/drive/u/2/folders/15oJshOCQmT-kuPleEQh862FIt3_7ljze)
 
 **2023**:
 
