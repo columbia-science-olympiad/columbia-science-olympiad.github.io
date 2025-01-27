@@ -13,8 +13,9 @@ A huge thank you to everyone that competed in our 2025 tournament! We look forwa
 
 **2025**:
 
--   [Final Scores (Rank Order)](https://drive.google.com/file/d/18aoobMJ11mRxAccYxGwN3l7ngwkoMcMW/view?usp=sharing)
--   [Final Scores (Team Number Order)](https://drive.google.com/file/d/1lFPaHfHT5lLx4JtYC07R74WkN37eHm9P/view?usp=sharing)
+-   [Final Scores (Rank Order)](https://drive.google.com/file/d/13wJLYy0HfHtj8SaNJ2Y7LyjuEmBiKbQ3/view?usp=sharing)
+-   [Final Scores (Team Number Order)](https://drive.google.com/file/d/1KthBNSrxurdm7seyRPWqw6-wKoOpO7Gn/view?usp=sharing)
+-   [Event Statistics](https://drive.google.com/file/d/1MuB7-_QiK2i3hi7bDg8gNVqMf9laCNHC/view?usp=sharing)
 -   [Exams and Answer Keys (coming soon!)]()
 
 ### Past Results:
