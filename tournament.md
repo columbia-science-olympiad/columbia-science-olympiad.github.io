@@ -26,7 +26,7 @@ Links will be updated for our 2026 tournament in Fall 2025.
 
 ## Additional Event Information
 
--   Science Quiz Bowl: [Rules](https://docs.google.com/document/d/1n75HFtPcuURw4dRdZKRhk1AfoW87i42JSpHX4EOUWqw/edit?usp=sharing)
+-   Science Quiz Bowl: [Rules](https://docs.google.com/document/d/1AMyyomrl9rs31zMDHXFkZFL5hSqFel8wzteqUA18gks/edit?usp=sharing)
 -   Integration Bee
 -   Organic Chemistry
 
