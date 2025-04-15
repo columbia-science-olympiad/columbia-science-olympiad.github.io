@@ -36,7 +36,7 @@ Links will be updated for our 2026 tournament in Fall 2025.
 Check-In: **5:00 AM - 6:15 AM at Lerner Broadway Entrance** \\
 Events: **6:35 AM - 4:25 PM** \\
 Integration Bee Finals: **3:30 PM - 4:45 PM** \\
-Science Quiz Bowl Finals: **5:00 PM - 6:30 PM** \\
+Science Quiz Bowl Finals: **4:30 PM - 6:45 PM** \\
 Awards Ceremony: **Starts at 7:00 PM**
 
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)
