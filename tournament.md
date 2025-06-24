@@ -28,6 +28,7 @@ Links will be updated for our 2026 tournament in Fall 2025.
 
 -   Science Quiz Bowl: [Rules](https://docs.google.com/document/d/1AMyyomrl9rs31zMDHXFkZFL5hSqFel8wzteqUA18gks/edit?usp=sharing)
 -   Integration Bee: [Rules](https://docs.google.com/document/d/1JTgPZNBiN1-SBNWM7BRX6KSeXLhFl2MtFFORlw6Lnts/edit?usp=sharing)
+-   Picture This: [Rules](https://drive.google.com/file/d/1bNAUg6Pu71QjwPrnPGSYM5L-LyUN0ubo/view?usp=sharing)
 -   Organic Chemistry
 -   Ornithology
 
