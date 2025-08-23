@@ -30,7 +30,7 @@ Links will be updated for our 2026 tournament in Fall 2025.
 -   Integration Bee: [Rules](https://docs.google.com/document/d/1JTgPZNBiN1-SBNWM7BRX6KSeXLhFl2MtFFORlw6Lnts/edit?usp=sharing)
 -   Picture This: [Rules](https://drive.google.com/file/d/1bNAUg6Pu71QjwPrnPGSYM5L-LyUN0ubo/view?usp=sharing)
 -   Organic Chemistry
--   Ornithology
+-   Ornithology: [Rules](https://drive.google.com/file/d/1AtM-XQvdSU73JMar2Szpn500LxScU8XG/view?usp=sharing), [National Bird List](https://drive.google.com/file/d/1pMo4GjRneITTGPFSz4GxEPjlEscKt7eh/view?usp=sharing)
 
 ## Schedule Information
 
