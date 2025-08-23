@@ -32,12 +32,4 @@ Links will be updated for our 2026 tournament in Fall 2025.
 -   Organic Chemistry
 -   Ornithology: [Rules](https://drive.google.com/file/d/1AtM-XQvdSU73JMar2Szpn500LxScU8XG/view?usp=sharing), [National Bird List](https://drive.google.com/file/d/1pMo4GjRneITTGPFSz4GxEPjlEscKt7eh/view?usp=sharing)
 
-## Schedule Information
-
-Check-In: **5:00 AM - 6:15 AM at Lerner Broadway Entrance** \\
-Events: **6:35 AM - 4:25 PM** \\
-Integration Bee Finals: **3:30 PM - 4:45 PM** \\
-Science Quiz Bowl Finals: **4:30 PM - 6:45 PM** \\
-Awards Ceremony: **Starts at 7:00 PM**
-
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)

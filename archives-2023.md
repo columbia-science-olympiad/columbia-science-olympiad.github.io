@@ -33,5 +33,5 @@ Our first annual invitational tournament was held on Columbia University's Morni
 
 ### Trial Events
 
--   Science Quiz Bowl
--   We've Got Your Number
+-   Science Quiz Bowl: [Rules](https://docs.google.com/document/d/1SFaar0HUIAUjO2btpyJgO0Fi5_IbELzE/edit?tab=t.0)
+-   We've Got Your Number: [Rules](https://drive.google.com/file/d/1bs-bxjaB23TYule9Uv005HC1t1Q1FZnE/view?usp=drive_link)

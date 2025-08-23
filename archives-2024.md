@@ -39,4 +39,4 @@ Our second annual invitational tournament was held on Columbia University's Morn
 -   Science Quiz Bowl: [Rules](https://drive.google.com/file/d/1HCwpvHvhoQ7ybBII1uBvD4WibFdXzJ_k/view?usp=sharing)
 -   Materials Science: [Rules](https://drive.google.com/file/d/1NoWsRDcQH9XnNN2IficTiYbezywgJLgL/view?usp=sharing)
 -   Picture This: [Rules](https://drive.google.com/file/d/1JW7NRAnGjkQ8XtO6HiklV_1RCA5L4HGu/view?usp=sharing)
--   Cybersecurity
+-   Cybersecurity: Rules found in the 2024 Rules Manual
