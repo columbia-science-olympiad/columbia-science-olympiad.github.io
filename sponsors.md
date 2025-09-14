@@ -3,7 +3,7 @@ title: Sponsors
 layout: info
 ---
 
-## Thank you to our 2024-2025 Sponsors!
+## Thank you to our 2025-2026 Sponsors!
 
 <img src="/assets/images/sponsors/janestreet.png" alt="Jane Street logo" width="40%"/>
 
