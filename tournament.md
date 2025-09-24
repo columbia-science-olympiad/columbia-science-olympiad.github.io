@@ -5,9 +5,8 @@ layout: info
 
 ## **Tentative Tournament Schedule**
 
--   6:00am-7:00am: Check-in
--   6:45am-7:30am: Chemistry Impound
--   7:00am-8:00am: Build Events Impound
+-   6:00am-6:20am: Check-in
+-   6:45am-7:30am: Impound
 -   8:00am-11:00am: Events
 -   11:00am-11:30am: Break
 -   11:30am-2:30pm: Events
