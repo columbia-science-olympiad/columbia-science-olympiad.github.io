@@ -16,9 +16,9 @@ layout: info
 
 ## **Tournament Quick Links**
 
-Links will be updated for our 2026 tournament in Fall 2025.
+Links will be added for our 2026 tournament in Fall 2025.
 
--   Tournament Schedule
+-   [Tournament Schedule](https://docs.google.com/spreadsheets/d/1ZMZSBErJgTJMNWuesP_Jxy72QtHQjZtXJMSMR-EEoSw/edit?usp=sharing)
 -   Teams and Homeroom Numbers
 -   Columbia University Campus Navigation Guide
 
@@ -32,7 +32,7 @@ Links will be updated for our 2026 tournament in Fall 2025.
 
 ## **Tournament Policies**
 
-### All tournament policies can be found on the comprehensive Tournament Policies document (will be made available later).
+### All tournament policies can be found in the comprehensive [Tournament Policies document](https://docs.google.com/document/d/1pFiuHOsaLl6kn1Q3y_pDxULLG-hWdoFn45uw1JtwYmg/edit?usp=sharing).
 
 ## Trial Event Information
 
