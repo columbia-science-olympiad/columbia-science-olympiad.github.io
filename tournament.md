@@ -44,4 +44,10 @@ Links will be added for our 2026 tournament in Fall 2025.
 -   Ornithology: [Rules](https://drive.google.com/file/d/1AtM-XQvdSU73JMar2Szpn500LxScU8XG/view?usp=sharing), [National Bird List](https://drive.google.com/file/d/1pMo4GjRneITTGPFSz4GxEPjlEscKt7eh/view?usp=sharing)
 -   Write It Do It: [Rules](https://drive.google.com/file/d/1mjuKmZ6EBRhiBg7PBaJFdipOrE84EIUn/view?usp=sharing)
 
+## Helicopter Information
+
+The venue for Helicopter will be International Affairs Building 417.
+
+<img src="/assets/images/iab417-1.jpg" alt="celing picture" width="40%"/> <img src="/assets/images/iab417-2.jpg" alt="celing picture" width="40%"/>
+
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)
