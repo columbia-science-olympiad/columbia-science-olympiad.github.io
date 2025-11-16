@@ -19,15 +19,16 @@ layout: info
 Links will be added for our 2026 tournament in Fall 2025.
 
 -   [Tournament Schedule](https://docs.google.com/spreadsheets/d/1ZMZSBErJgTJMNWuesP_Jxy72QtHQjZtXJMSMR-EEoSw/edit?usp=sharing)
--   Teams and Homeroom Numbers
+-   [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/17WvxGgDsNK-CeV76p19oHIJVzKNc2_J6d4OYW9AstVU/edit?usp=sharing&urp=gmail_link)
 -   Columbia University Campus Navigation Guide
 
 #### Other Links
 
--   Student publicity release and code of conduct form
--   Coach Roster and Vandalism form
--   Release Forms Submission
--   Chemistry Video Attestation form
+-   [Student publicity release and code of conduct form](https://drive.google.com/file/d/1JX4-kj7mVQiXzqR4RPL_SX0XAx_G25xn/view)
+-   [Coach Roster and Vandalism form](https://drive.google.com/file/d/1xzVE_DhtAxoDVrOpFu3UjncLoBYZeWBv/view)
+-   [Release Forms Submission](https://docs.google.com/forms/d/e/1FAIpQLSeRMMf7ASd0Mw9F8ctMc-Lx4ng9PK-BLxVn9iEAygfaChAGAQ/viewform?usp=header)
+-   [Chemistry Video Attestation form](https://docs.google.com/forms/d/e/1FAIpQLScBu806uOnkCoeDv8JBStoY5d2Aip8OhkahmlECnUPNfh7QXw/viewform)
+-   [Coach Proctoring Assignments form](https://docs.google.com/forms/d/e/1FAIpQLScG4MHlsa9sigNwuHlu3Ap-wKLHePVOcGNkhKo4IiVBYoUwhQ/viewform)
 -   [Suggested Hotel List](https://docs.google.com/document/d/1wXP3C66AXBl5TuVzQs4fIF-jr8aJ_a1eAt_bcJiDiug/edit?usp=sharing)
 
 ## **Tournament Policies**
