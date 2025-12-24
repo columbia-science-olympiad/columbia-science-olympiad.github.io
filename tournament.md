@@ -44,10 +44,35 @@ Links will be added for our 2026 tournament in Fall 2025.
 -   Ornithology: [Rules](https://drive.google.com/file/d/1AtM-XQvdSU73JMar2Szpn500LxScU8XG/view?usp=sharing), [National Bird List](https://drive.google.com/file/d/1pMo4GjRneITTGPFSz4GxEPjlEscKt7eh/view?usp=sharing)
 -   Write It Do It: [Rules](https://drive.google.com/file/d/1mjuKmZ6EBRhiBg7PBaJFdipOrE84EIUn/view?usp=sharing)
 
+## Bungee Drop Information
+
+The venue for Bungee Drop will be Havemeyer 309.
+
+<img src="/assets/images/hav309_1.jpg" alt="hav309 picture" width="40%"/> <img src="/assets/images/hav309_2.jpg" alt="hav309 picture" width="40%"/>
+
+## Electric Vehicle Information
+
+The venue for Electric Vehicle will be Lerner 555.
+
+<img src="/assets/images/lerner-555-1.webp" alt="lerner 555 picture" width="40%"/> <img src="/assets/images/lerner-555-2.webp" alt="lerner 555 picture" width="40%"/>
+
 ## Helicopter Information
 
 The venue for Helicopter will be International Affairs Building 417.
 
 <img src="/assets/images/iab417-1.jpg" alt="celing picture" width="40%"/> <img src="/assets/images/iab417-2.jpg" alt="celing picture" width="40%"/>
+
+## Hovercraft Information
+
+The venue for Hovercraft will be Lerner Broadway.
+
+<img src="/assets/images/lerner-broadway-1.webp" alt="lerner broadway picture" width="30%"/> <img src="/assets/images/lerner-broadway-2.webp" alt="lerner broadway picture" width="30%"/> <img src="/assets/images/lerner-broadway-3.webp" alt="lerner broadway picture" width="30%"/>
+
+## Robot Tour Information
+
+The venue for Robot Tour will be Lerner 477 & 478.
+
+<img src="/assets/images/lerner-477-1.jpg" alt="lerner 477 picture" width="40%"/> <img src="/assets/images/lerner-477-2.jpg" alt="lerner 477 picture" width="40%"/>
+<img src="/assets/images/lerner-478-1.jpg" alt="lerner 478 picture" width="40%"/> <img src="/assets/images/lerner-478-2.jpg" alt="lerner 478 picture" width="40%"/>
 
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)

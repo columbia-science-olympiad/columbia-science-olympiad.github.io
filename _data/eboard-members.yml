@@ -1,14 +1,14 @@
 - tds:
-  name: 2025 Tournament Directors
+  name: 2026 Tournament Co-Presidents
   members:
-      - name: Kaylee Fang
-        year: 2025
-        image_name: kaylee.jpeg
-        description: >
-
       - name: Tanmay Gupta
         year: 2027
-        image_name: tanmay.jpeg
+        image_name: tanmay.jpg
+        description: >
+
+      - name: Teresa Xiao
+        year: 2028
+        image_name: teresa.jpg
         description: >
 
 - secretary:
@@ -16,15 +16,20 @@
   members:
       - name: Matthew Lee
         year: 2027
-        image_name: matthew.jpeg
+        image_name: matthew.jpg
         description: >
 
 - treasurer:
-  name: Treasurer
+  name: Treasurers
   members:
-      - name: Sumaiyah Rahman
-        year: 2026
-        image_name: sumaiyah.jpeg
+      - name: Alice Lin
+        year: 2027
+        image_name: alice.webp
+        description: >
+
+      - name: Zainab Anwar
+        year: 2028
+        image_name: zainab.jpg
         description: >
 
 - events:
@@ -32,65 +37,64 @@
   members:
       - name: Mallory Thomas
         year: 2027
-        image_name: mallory.jpeg
+        image_name: mallory.jpg
         description: >
 
-- outreach:
-  name: Outreach Director
-  members:
-      - name: Amanda Lin
-        year: 2027
-        image_name: amanda.jpeg
+      - name: Darius Fan
+        year: 2028
+        image_name: darius.jpg
         description: >
 
 - logistics:
   name: Logistics
   members:
-      - name: Ania Krzyżańska
-        year: 2025
-        image_name: ania.jpeg
+      - name: Amanda Lin
+        year: 2027
+        image_name: amanda.jpg
         description: >
 
       - name: Leo Li
         year: 2027
-        image_name: leo.jpeg
+        image_name: leo.jpg
         description: >
 
-- webmaster:
-  name: Webmaster
+- outreach:
+  name: Outreach Directors
   members:
-      - name: Dale Yu
-        year: 2025
-        image_name: dale.jpeg
+      - name: Steven Sun
+        year: 2027
+        image_name: steven.jpg
+        description: >
+
+      - name: Lilia Shmulenson
+        year: 2028
+        image_name: lilia.jpg
+        description: >
+
+      - name: Aidan Puma
+        year: 2027
+        image_name: aidan.jpg
+        description: >
+
+- engagement:
+  name: Engagement
+  members:
+      - name: Heera Santhosh
+        year: 2028
+        image_name: heera.jpg
         description: >
 
 - grad-stud:
-  name: Graduate Advisor
+  name: Faculty Advisor
   members:
       - name: Christopher Hwu
-        year: 2024
-        image_name: christopher.jpeg
+        image_name: christopher.jpg
         description: >
 
 - seniors:
   name: Senior Advisors
   members:
-      - name: Ming Ying Yeoh
-        year: 2025
-        image_name: mingying.jpeg
-        description: >
-
-      - name: Erik Trebilcock
-        year: 2025
-        image_name: 2024/eriksquare.png
-        description: >
-
-      - name: Elaine Huang
-        year: 2025
-        image_name: 2024/elaine.png
-        description: >
-
-      - name: Colin Davis
-        year: 2025
-        image_name: colin.jpeg
+      - name: Sumaiyah Rahman
+        year: 2026
+        image_name: 2025/sumaiyah.jpeg
         description: >
