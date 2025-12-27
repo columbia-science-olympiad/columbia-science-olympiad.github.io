@@ -20,7 +20,7 @@ Links will be added for our 2026 tournament in Fall 2025.
 
 -   [Tournament Schedule](https://docs.google.com/spreadsheets/d/1ZMZSBErJgTJMNWuesP_Jxy72QtHQjZtXJMSMR-EEoSw/edit?usp=sharing)
 -   [Teams and Homeroom Numbers](https://docs.google.com/spreadsheets/d/17WvxGgDsNK-CeV76p19oHIJVzKNc2_J6d4OYW9AstVU/edit?usp=sharing&urp=gmail_link)
--   Columbia University Campus Navigation Guide
+-   [Columbia University Campus Navigation Guide](https://docs.google.com/document/d/1ao4cUuS2bcZecP1VLDMaT2CBRZvsJHVnLom6m_d54jQ/edit?usp=sharing)
 
 #### Other Links
 
