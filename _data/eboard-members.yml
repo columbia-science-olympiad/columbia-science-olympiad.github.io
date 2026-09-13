@@ -1,61 +1,52 @@
 - tds:
-  name: 2026 Tournament Co-Presidents
+  name: 2027 Tournament President
   members:
-      - name: Tanmay Gupta
-        year: 2027
-        image_name: tanmay.jpg
+      - name: Lilia Shmulenson
+        year: 2028
+        image_name: lilia.jpg
         description: >
 
+- treasurer:
+  name: Co-Treasurers
+  members:
+      - name: Zainab Anwar
+        year: 2028
+        image_name: zainab.jpg
+        description: >
+      - name: Karthik Mahakala
+        year: 2029
+        image_name: profile_photo.jpg
+        description: >
+
+- events:
+  name: Test Event Directors
+  members:
+      - name: Nicole Ni
+        year: 2028
+        image_name: profile_photo.jpg
+        description: >
+
+      - name: Emma Jia
+        year: 2029
+        image_name: profile_photo.jpg
+        description: >
+
+      - name: Kaylee Fang
+        year: 2025
+        image_name: profile_photo.jpg
+        description: >
+
+- build:
+  name: Build Event Directors
+  members:
       - name: Teresa Xiao
         year: 2028
         image_name: teresa.jpg
         description: >
 
-- secretary:
-  name: Secretary
-  members:
-      - name: Matthew Lee
-        year: 2027
-        image_name: matthew.jpg
-        description: >
-
-- treasurer:
-  name: Treasurers
-  members:
-      - name: Alice Lin
-        year: 2027
-        image_name: alice.jpg
-        description: >
-
-      - name: Zainab Anwar
-        year: 2028
-        image_name: zainab.jpg
-        description: >
-
-- events:
-  name: Events Directors
-  members:
-      - name: Mallory Thomas
-        year: 2027
-        image_name: mallory.jpg
-        description: >
-
       - name: Darius Fan
         year: 2028
         image_name: darius.jpg
-        description: >
-
-- logistics:
-  name: Logistics
-  members:
-      - name: Amanda Lin
-        year: 2027
-        image_name: amanda.jpg
-        description: >
-
-      - name: Leo Li
-        year: 2027
-        image_name: leo.jpg
         description: >
 
 - outreach:
@@ -64,16 +55,6 @@
       - name: Steven Sun
         year: 2027
         image_name: steven.jpg
-        description: >
-
-      - name: Lilia Shmulenson
-        year: 2028
-        image_name: lilia.jpg
-        description: >
-
-      - name: Aidan Puma
-        year: 2027
-        image_name: aidan.jpg
         description: >
 
 - engagement:
@@ -94,7 +75,14 @@
 - seniors:
   name: Senior Advisors
   members:
-      - name: Sumaiyah Rahman
-        year: 2026
-        image_name: 2025/sumaiyah.jpeg
-        description: >
+      - name: Amanda Lin
+        year: 2027
+        image_name: amanda.jpg
+
+      - name: Mallory Thomas
+        year: 2027
+        image_name: mallory.jpg
+
+      - name: Leo Li
+        year: 2027
+        image_name: leo.jpg
