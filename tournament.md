@@ -7,6 +7,10 @@ layout: info
 
 Our annual division C invitational tournament will be held on Saturday, January 23, 2027!
 
+- [Tournament Schedule](https://docs.google.com/spreadsheets/d/1ZOuMyLP_jYNfz_KCiwyXte0LgWzjWjlHuJU5DUwoqTI/edit?usp=sharing)
+- [Campus Navigation Guide](https://docs.google.com/document/d/1R_RFHfk-lvR7lgtXqXSrGrKMA7oySEQc6s8_ZBQ35xQ/edit?usp=sharing)
+- [Suggested Hotel List](https://docs.google.com/document/d/1nc98xIQlhUGCGwltVQ6m2H8WHFbj4IiCm0822OlY1vM/edit?usp=sharing)
+
 ### Additional Events
 
 We are running 30 events total, the 23 standard events plus 7 additional events. Your final team score will be composed of your 25 best-scoring events out of those 30.
