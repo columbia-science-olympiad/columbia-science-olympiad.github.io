@@ -35,15 +35,10 @@ We are running 30 events total, the 23 standard events plus 7 additional events.
 
 - Release Forms Submission: [Link](https://docs.google.com/forms/d/e/1FAIpQLScHkaSbi64Q_WWT0_6LQH5Kzx8JDYZYQ-xB-daRaPHNIJvCtg/viewform?usp=sharing&ouid=102984703675889339482)
 - Chemistry Video Attestation Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSegzC43n1qP06SQh-uklFBx1yU79pKWXEs6T_-6pnd7zD2ugw/viewform?usp=sharing&ouid=102984703675889339482)
+- Guest Registration Access Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSfvk_xU4Db7D3Z0RuDukS-XEHZICJObboIkgFtJXUiJF43zkg/viewform?usp=dialog)
 
 ### Event Self-Schedule
 
 <iframe src="https://esus.socalscioly.org/login.php?tid=390" style="width: 100%; height: 600px;">Loading...</iframe>
-
-## Division B Invitational Tournament
-
-We will hold our first Division B Invitational on February 27, 2027.
-
-More tournament information will be coming soon.
 
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)
