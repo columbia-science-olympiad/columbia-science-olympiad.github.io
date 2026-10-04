@@ -44,7 +44,7 @@ Not pictured: Ania Krzyżańska (Competitor Logistics Director), Teresa Xiao (Bu
 
 ### Sponsors
 
-Thank you to Jane Street for being a Silver sponsor for our 2025 invitational tournament!
+Thank you to Jane Street for being a Silver sponsor for our 2026 invitational tournament!
 
 <img src="/assets/images/sponsors/janestreet.png" alt="Jane Street logo" width="40%"/>
 
