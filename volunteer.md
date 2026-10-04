@@ -5,7 +5,7 @@ layout: info
 
 ## Volunteering and Event Supervisor Information
 
-We need lots of volunteers for our tournament on _January 24th, 2026_! If you are a Columbia student or non-Columbia Science Olympiad alum in the area interested in helping out, fill out the volunteer signup form (link coming soon - feel free to join the [mailing list](https://forms.gle/G8YgVMQzvsm5jKzX8) in the meantime)!
+We need lots of volunteers for our Division C tournament on _January 23th, 2027_! If you are a Columbia student or non-Columbia Science Olympiad alum in the area interested in helping out, fill out the volunteer signup form (link coming soon - feel free to join the [mailing list](https://forms.gle/G8YgVMQzvsm5jKzX8) in the meantime)!
 
 Roles include helping grade tests + judge events, helping supervisors run events (e.g. timing plane flights, setting up lab supplies, checking students in, etc.), and guiding students around campus.
 
