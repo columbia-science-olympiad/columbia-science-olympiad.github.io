@@ -29,4 +29,8 @@ We are running 30 events total, the 23 standard events plus 7 additional events.
 - Chemistry Video Attestation Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSenEyaGCyQkUOgAdLxhbLucIjbKpckzLdB88kOjqPr2gpS48Q/viewform?usp=sharing&ouid=102984703675889339482)
 - Guest Registration Access Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSeGlOnHaEUFQVgFV0ZZdW9p_aGRmLNdmn4br85EA5t9xRFuqA/viewform?usp=sharing&ouid=102984703675889339482)
 
+### Event Self-Schedule
+
+<iframe src="https://esus.socalscioly.org/login.php?tid=394" style="width: 100%; height: 600px;">Loading...</iframe>
+
 Questions? Email us at [columbiascienceolympiad@gmail.com](mailto:columbiascienceolympiad@gmail.com?)
