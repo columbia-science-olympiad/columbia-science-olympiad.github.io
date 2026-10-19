@@ -5,11 +5,11 @@ layout: info
 
 ## Volunteering and Event Supervisor Information
 
-We need lots of volunteers for our Division C tournament on _January 23th, 2027_! If you are a Columbia student or non-Columbia Science Olympiad alum in the area interested in helping out, fill out the volunteer signup form (link coming soon - feel free to join the [mailing list](https://forms.gle/G8YgVMQzvsm5jKzX8) in the meantime)!
+We need lots of volunteers for our Division C tournament on _January 23th, 2027_ and our Division B tournament on _February 27, 2027_! If you are a Columbia student or non-Columbia Science Olympiad alum in the area interested in helping out, fill out the volunteer signup form (link coming soon - feel free to join the [mailing list](https://forms.gle/G8YgVMQzvsm5jKzX8) in the meantime)!
 
 Roles include helping grade tests + judge events, helping supervisors run events (e.g. timing plane flights, setting up lab supplies, checking students in, etc.), and guiding students around campus.
 
-The tournament will run for the entire day (6:00 A.M. to 9:00 P.M.), but there are options for morning, midday, afternoon, or evening shifts!
+The tournament will run for the entire day (6:10 A.M. to 7:45 P.M.), but there are options for morning, midday, afternoon, or evening shifts!
 
 &nbsp;
 
